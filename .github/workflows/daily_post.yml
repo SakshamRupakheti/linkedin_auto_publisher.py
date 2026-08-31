@@ -1,0 +1,24 @@
+name: Daily LinkedIn Publisher
+
+on:
+  schedule:
+    - cron: '0 14 * * *'  # Runs daily at 14:00 UTC (9:00 AM EST)
+  workflow_dispatch:      # Allows manual trigger anytime
+
+jobs:
+  run-publisher:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Install dependencies
+        run: pip install openai requests
+      - name: Execute script
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
+          LINKEDIN_PERSON_URN: ${{ secrets.LINKEDIN_PERSON_URN }}
+        run: python linkedin_auto_publisher.py
