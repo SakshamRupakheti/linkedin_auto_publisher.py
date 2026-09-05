@@ -1,0 +1,24 @@
+{
+  "page_name": "World & Human",
+  "organization_id": "143606150",
+  "linkedin_version": "202608",
+  "daily_post_limit": 2,
+  "minimum_interval_hours": 6,
+  "max_age_hours": 30,
+  "stories_per_post": 3,
+  "minimum_stories": 2,
+  "feeds": [
+    {"name": "BBC News", "category": "World", "url": "https://feeds.bbci.co.uk/news/world/rss.xml"},
+    {"name": "BBC News", "category": "Business", "url": "https://feeds.bbci.co.uk/news/business/rss.xml"},
+    {"name": "BBC News", "category": "Technology", "url": "https://feeds.bbci.co.uk/news/technology/rss.xml"},
+    {"name": "BBC News", "category": "Health", "url": "https://feeds.bbci.co.uk/news/health/rss.xml"},
+    {"name": "BBC News", "category": "Science", "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"},
+    {"name": "BBC News", "category": "Culture", "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml"},
+    {"name": "The Guardian", "category": "World", "url": "https://www.theguardian.com/world/rss"},
+    {"name": "The Guardian", "category": "Sport", "url": "https://www.theguardian.com/sport/rss"},
+    {"name": "The Guardian", "category": "Environment", "url": "https://www.theguardian.com/environment/rss"},
+    {"name": "The Guardian", "category": "Business", "url": "https://www.theguardian.com/business/rss"},
+    {"name": "NASA", "category": "Science", "url": "https://www.nasa.gov/feed/"},
+    {"name": "UN News", "category": "World", "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml"}
+  ]
+}
