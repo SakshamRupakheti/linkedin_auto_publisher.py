@@ -23,7 +23,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     env:
-      LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
+      LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN || secrets.LINKEDIN }}
       LINKEDIN_VERSION: ${{ vars.LINKEDIN_VERSION }}
       LIVE: ${{ vars.PUBLISHING_ENABLED == 'true' && (github.event_name == 'schedule' || inputs.mode == 'publish') }}
     steps:
@@ -85,3 +85,4 @@ jobs:
             reports/
             state.json
           retention-days: 30
+
