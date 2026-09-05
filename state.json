@@ -58,9 +58,10 @@
           "category": "Science"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 05 Sep 2026\n\nSPORT — The Guardian\n“Argentina v Australia: men’s rugby union second Test – live”\nhttps://www.theguardian.com/sport/live/2026/sep/05/arg-vs-aus-wallabies-rugby-union-second-test-live-updates\n\nWORLD — BBC News\n“US envoys meet Putin in Moscow for Ukraine talks”\nhttps://www.bbc.co.uk/news/articles/cx2zqp46g8eo\n\nSCIENCE — NASA\n“APOD: 2026 September 5 – Chasing the Moon’s Shadow”\nhttps://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 05 Sep 2026\n\nSPORT — The Guardian\n“Argentina v Australia: men’s rugby union second Test – live”\nhttps://www.theguardian.com/sport/live/2026/sep/05/arg-vs-aus-wallabies-rugby-union-second-test-live-updates\n\nWORLD — BBC News\n“US envoys meet Putin in Moscow for Ukraine talks”\nhttps://www.bbc.co.uk/news/articles/cx2zqp46g8eo\n\nSCIENCE — NASA\n“APOD: 2026 September 5 – Chasing the Moon’s Shadow”\nhttps://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400
     }
   ]
 }
