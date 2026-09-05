@@ -1,24 +1,87 @@
-name: Daily LinkedIn Publisher
+name: World and Human News Publisher
 
 on:
   schedule:
-    - cron: '0 14 * * *'  # Runs daily at 14:00 UTC (9:00 AM EST)
-  workflow_dispatch:      # Allows manual trigger anytime
+    - cron: '17 8,20 * * *'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: Preview or publish a new digest
+        type: choice
+        default: preview
+        options: [preview, publish]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: world-and-human-publisher
+  cancel-in-progress: false
 
 jobs:
-  run-publisher:
+  news:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
+      LINKEDIN_VERSION: ${{ vars.LINKEDIN_VERSION }}
+      LIVE: ${{ vars.PUBLISHING_ENABLED == 'true' && (github.event_name == 'schedule' || inputs.mode == 'publish') }}
     steps:
-      - uses: actions/checkout@v3
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - uses: actions/checkout@v6
         with:
-          python-version: '3.10'
-      - name: Install dependencies
-        run: pip install openai requests
-      - name: Execute script
+          ref: ${{ github.event.repository.default_branch }}
+          fetch-depth: 0
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Test publisher
+        run: python -m unittest discover -s tests -v
+      - name: Preview news
+        if: env.LIVE != 'true'
+        run: python linkedin_auto_publisher.py preview
+      - name: Prepare publishing attempt
+        if: env.LIVE == 'true'
+        run: python linkedin_auto_publisher.py prepare
+      - name: Persist reservation before posting
+        if: env.LIVE == 'true'
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add state.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Reserve news publishing attempt [skip ci]'
+            git push origin HEAD:"$DEFAULT_BRANCH"
+          fi
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
-          LINKEDIN_PERSON_URN: ${{ secrets.LINKEDIN_PERSON_URN }}
-        run: python linkedin_auto_publisher.py
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+      - name: Publish reserved digest
+        if: env.LIVE == 'true'
+        run: python linkedin_auto_publisher.py publish
+      - name: Persist publishing outcome
+        if: always() && env.LIVE == 'true'
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add state.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Record news publishing outcome [skip ci]'
+            git push origin HEAD:"$DEFAULT_BRANCH"
+          fi
+        env:
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+      - name: Collect organic analytics
+        if: always() && env.LINKEDIN_ACCESS_TOKEN != ''
+        continue-on-error: true
+        run: python linkedin_auto_publisher.py analytics
+      - name: Generate report
+        if: always()
+        run: python linkedin_auto_publisher.py report
+      - name: Save draft, stats, and recovery state
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: world-and-human-${{ github.run_id }}-${{ github.run_attempt }}
+          path: |
+            reports/
+            state.json
+          retention-days: 30
