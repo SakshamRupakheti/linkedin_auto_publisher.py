@@ -117,6 +117,8 @@ def credentials(config):
     token = os.getenv('LINKEDIN_ACCESS_TOKEN','').strip()
     if not token:
         raise RuntimeError('Missing LINKEDIN_ACCESS_TOKEN. Add it to GitHub Actions secrets.')
+    if re.search(r'[\x00-\x20\x7f]', token) or token.startswith(('{', '[', 'LINKEDIN_', 'LINKEDIN=')):
+        raise RuntimeError('The LinkedIn secret must contain only the raw access token, without spaces, extra lines, JSON, a variable assignment, or a Bearer prefix.')
     org = str(config['organization_id'])
     version = os.getenv('LINKEDIN_VERSION','').strip() or config['linkedin_version']
     if not re.fullmatch(r'[1-9]\d*',org) or not re.fullmatch(r'\d{6}',version):
@@ -202,9 +204,13 @@ def analytics(config,out):
         save(out/'analytics.json',dict(status='available' if metrics else 'no_data',collected_at=now().isoformat(),
              scope='Organization organic aggregate; API rolling 12-month availability',metrics=metrics))
     except (HTTPError,URLError,TimeoutError,OSError,ValueError,RuntimeError) as exc:
+        reason = (str(exc) if isinstance(exc, RuntimeError) else
+                  'LinkedIn rejected the request; check token, API permissions, Page role and API version.' if isinstance(exc, HTTPError) else
+                  'The token cannot be used as an HTTP header, or LinkedIn returned invalid JSON.' if isinstance(exc, ValueError) else
+                  'Could not connect to LinkedIn; retry a later run.')
         save(out/'analytics.json',dict(status='unavailable',http_status=exc.code if isinstance(exc,HTTPError) else None,
-             reason='Check token, rw_organization_admin permission, Page administrator role and API version.'))
-        raise RuntimeError('Analytics unavailable; see analytics.json. Publishing history remains reportable.') from None
+             error_type=type(exc).__name__, reason=reason))
+        raise RuntimeError('Analytics unavailable: '+reason) from None
 
 def report(state,out):
     posts=state['posts']

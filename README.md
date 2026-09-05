@@ -25,8 +25,8 @@ miss differently worded stories about the same event. Each headline links to the
 
 ## Status and prerequisites
 
-The code and live RSS preview were tested locally. **No live LinkedIn post or authenticated
-analytics request has been verified, and installation into GitHub is still required.**
+The rebuild is installed in GitHub. The cloud preview and 12 tests passed on September 5, 2026.
+**Live publishing is disabled while the saved LinkedIn token is being validated.**
 
 You need:
 
@@ -50,7 +50,7 @@ is the one supplied by the Page owner. Confirm it before enabling publishing.
    writes if your repository policy permits this. The workflow must be able to commit `state.json`
    to the default branch. If branch protection prohibits this, use a permitted state-storage design
    before going live; do not bypass protection blindly.
-3. Under **Settings → Secrets and variables → Actions → Secrets**, set `LINKEDIN_ACCESS_TOKEN`.
+3. Under **Settings → Secrets and variables → Actions → Secrets**, set `LINKEDIN_ACCESS_TOKEN` (the existing secret name `LINKEDIN` is also accepted).
    Enter the token directly in GitHub, never in the code, a commit, an issue, or a chat.
    Existing `OPENAI_API_KEY` and `LINKEDIN_PERSON_URN` secrets are unused by this replacement.
 4. Leave the repository variable `PUBLISHING_ENABLED` unset initially.
