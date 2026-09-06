@@ -119,6 +119,29 @@
       "text": "WORLD & HUMAN | News briefing | 06 Sep 2026\n\nWORLD — BBC News\n“What different world maps get right - and what they get wrong”\nhttps://www.bbc.co.uk/news/articles/cly5r60v4mro\n\nSPORT — The Guardian\n“Formula One 2026: Italian Grand Prix race updates – live”\nhttps://www.theguardian.com/sport/live/2026/sep/06/formula-one-2026-italian-grand-prix-race-updates-live\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
       "http_status": 400,
       "error_message": "Organization Or Events permissions must be used when using organization as author"
+    },
+    {
+      "id": "c355c7d002f15665f5f3",
+      "created_at": "2026-09-06T22:09:19.114846+00:00",
+      "articles": [
+        {
+          "title": "BBC News presenter reveals she has blood cancer",
+          "url": "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo",
+          "published_at": "2026-09-06T22:00:36+00:00",
+          "source": "BBC News",
+          "category": "Health"
+        },
+        {
+          "title": "News live: Butler criticises ‘terrible’ One Nation plan to divert super to boost pay; trial for slain Australian surfers to begin in Mexico",
+          "url": "https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb",
+          "published_at": "2026-09-06T21:59:22+00:00",
+          "source": "The Guardian",
+          "category": "World"
+        }
+      ],
+      "status": "reserved",
+      "organization_id": "143606150",
+      "text": "WORLD & HUMAN | News briefing | 06 Sep 2026\n\nHEALTH — BBC News\n“BBC News presenter reveals she has blood cancer”\nhttps://www.bbc.co.uk/news/articles/cx2zkyl7kwyo\n\nWORLD — The Guardian\n“News live: Butler criticises ‘terrible’ One Nation plan to divert super to boost pay; trial for slain Australian surfers to begin in Mexico”\nhttps://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
     }
   ]
 }
