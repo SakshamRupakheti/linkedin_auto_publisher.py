@@ -114,9 +114,11 @@
           "category": "Sport"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 06 Sep 2026\n\nWORLD — BBC News\n“What different world maps get right - and what they get wrong”\nhttps://www.bbc.co.uk/news/articles/cly5r60v4mro\n\nSPORT — The Guardian\n“Formula One 2026: Italian Grand Prix race updates – live”\nhttps://www.theguardian.com/sport/live/2026/sep/06/formula-one-2026-italian-grand-prix-race-updates-live\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 06 Sep 2026\n\nWORLD — BBC News\n“What different world maps get right - and what they get wrong”\nhttps://www.bbc.co.uk/news/articles/cly5r60v4mro\n\nSPORT — The Guardian\n“Formula One 2026: Italian Grand Prix race updates – live”\nhttps://www.theguardian.com/sport/live/2026/sep/06/formula-one-2026-italian-grand-prix-race-updates-live\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
