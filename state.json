@@ -94,6 +94,29 @@
       "text": "WORLD & HUMAN | News briefing | 06 Sep 2026\n\nWORLD — BBC News\n“US envoys meet Putin in Moscow for Ukraine talks”\nhttps://www.bbc.co.uk/news/articles/cx2zqp46g8eo\n\nSPORT — The Guardian\n“Argentina 28-28 Australia: rugby union second Test – as it happened”\nhttps://www.theguardian.com/sport/live/2026/sep/05/arg-vs-aus-wallabies-rugby-union-second-test-live-updates\n\nSCIENCE — NASA\n“APOD: 2026 September 5 – Chasing the Moon’s Shadow”\nhttps://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
       "http_status": 400,
       "error_message": "Organization Or Events permissions must be used when using organization as author"
+    },
+    {
+      "id": "25f02721a6ee6fb4c76b",
+      "created_at": "2026-09-06T12:11:05.246715+00:00",
+      "articles": [
+        {
+          "title": "What different world maps get right - and what they get wrong",
+          "url": "https://www.bbc.co.uk/news/articles/cly5r60v4mro",
+          "published_at": "2026-09-06T12:09:54+00:00",
+          "source": "BBC News",
+          "category": "World"
+        },
+        {
+          "title": "Formula One 2026: Italian Grand Prix race updates – live",
+          "url": "https://www.theguardian.com/sport/live/2026/sep/06/formula-one-2026-italian-grand-prix-race-updates-live",
+          "published_at": "2026-09-06T12:00:50+00:00",
+          "source": "The Guardian",
+          "category": "Sport"
+        }
+      ],
+      "status": "reserved",
+      "organization_id": "143606150",
+      "text": "WORLD & HUMAN | News briefing | 06 Sep 2026\n\nWORLD — BBC News\n“What different world maps get right - and what they get wrong”\nhttps://www.bbc.co.uk/news/articles/cly5r60v4mro\n\nSPORT — The Guardian\n“Formula One 2026: Italian Grand Prix race updates – live”\nhttps://www.theguardian.com/sport/live/2026/sep/06/formula-one-2026-italian-grand-prix-race-updates-live\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
     }
   ]
 }
