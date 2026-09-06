@@ -126,6 +126,21 @@ def credentials(config):
     return 'urn:li:organization:'+org, {'Authorization':'Bearer '+token,'Content-Type':'application/json',
         'LinkedIn-Version':version,'X-Restli-Protocol-Version':'2.0.0'}
 
+def linkedin_text(text):
+    escaped = re.sub(r'([\\|{}@\[\]()<>#*_~])', lambda match: '\\' + match.group(0), text)
+    return escaped.replace(r'\#WorldNews \#WorldAndHuman', '#WorldNews #WorldAndHuman')
+
+def api_error_message(exc):
+    try:
+        data = json.loads(exc.read(8192))
+        message = str(data.get('message', ''))
+        token = os.getenv('LINKEDIN_ACCESS_TOKEN', '').strip()
+        if token:
+            message = message.replace(token, '[redacted]')
+        return clean(message)[:600]
+    except (ValueError, OSError, AttributeError):
+        return ''
+
 def prepare(config,state,path,out,live=False):
     clock = now()
     for name in ('attempt.json','draft.json','draft.txt'):
@@ -170,7 +185,7 @@ def publish(config,state,path,out):
     if now()-datetime.fromisoformat(post['created_at'])>timedelta(minutes=30):
         raise RuntimeError('Draft is stale; resolve it as not published before preparing fresh news.')
     author,headers = credentials(config)
-    payload = dict(author=author,commentary=post['text'],visibility='PUBLIC',
+    payload = dict(author=author,commentary=linkedin_text(post['text']),visibility='PUBLIC',
         distribution=dict(feedDistribution='MAIN_FEED',targetEntities=[],thirdPartyDistributionChannels=[]),
         lifecycleState='PUBLISHED',isReshareDisabledByAuthor=False)
     # GitHub commits reserved state before calling this. Never automatically retry a POST.
@@ -184,13 +199,15 @@ def publish(config,state,path,out):
         save(path,state)
         print('Published to organization '+str(config['organization_id']))
     except HTTPError as exc:
+        detail = api_error_message(exc)
         if 400<=exc.code<500 and exc.code!=408:
             post['status']='not_published'
         post['http_status']=exc.code
+        post['error_message']=detail
         save(path,state)
         hints={401:'Replace expired/invalid token.',403:'Check w_organization_social, app approval and Page role.',
                426:'Update the retired LinkedIn API version.',429:'Rate limited; wait for a later run.'}
-        raise RuntimeError(f'LinkedIn HTTP {exc.code}. '+hints.get(exc.code,'Inspect request settings; check Page if outcome is uncertain.')) from None
+        raise RuntimeError(f'LinkedIn HTTP {exc.code}. '+hints.get(exc.code,'Inspect request settings; check Page if outcome is uncertain.')+' '+detail) from None
     except (URLError,TimeoutError,OSError):
         raise RuntimeError('Publish outcome uncertain. Check the Page before resolving; automatic resend is blocked.') from None
 
