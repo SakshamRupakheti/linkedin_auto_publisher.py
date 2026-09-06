@@ -139,9 +139,11 @@
           "category": "World"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 06 Sep 2026\n\nHEALTH — BBC News\n“BBC News presenter reveals she has blood cancer”\nhttps://www.bbc.co.uk/news/articles/cx2zkyl7kwyo\n\nWORLD — The Guardian\n“News live: Butler criticises ‘terrible’ One Nation plan to divert super to boost pay; trial for slain Australian surfers to begin in Mexico”\nhttps://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 06 Sep 2026\n\nHEALTH — BBC News\n“BBC News presenter reveals she has blood cancer”\nhttps://www.bbc.co.uk/news/articles/cx2zkyl7kwyo\n\nWORLD — The Guardian\n“News live: Butler criticises ‘terrible’ One Nation plan to divert super to boost pay; trial for slain Australian surfers to begin in Mexico”\nhttps://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
