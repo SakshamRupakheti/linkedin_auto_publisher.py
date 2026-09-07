@@ -176,6 +176,36 @@
       "text": "WORLD & HUMAN | News briefing | 07 Sep 2026\n\nWORLD — BBC News\n“Germany's far-right AfD says 'democracy demands' parties work with them after state election win”\nhttps://www.bbc.co.uk/news/articles/cpd0113082eo\n\nSPORT — The Guardian\n“Serie A’s hierarchy takes shape with wild night in Milan and flat draw in Turin | Nicky Bandini”\nhttps://www.theguardian.com/football/2026/sep/07/inter-napoli-juventus-milan-serie-a-hierarchy\n\nSCIENCE — NASA\n“APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars”\nhttps://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
       "http_status": 400,
       "error_message": "Organization Or Events permissions must be used when using organization as author"
+    },
+    {
+      "id": "efa41984a2be1eab90e9",
+      "created_at": "2026-09-07T22:52:24.792678+00:00",
+      "articles": [
+        {
+          "title": "Australia politics live: Howard warns about limiting immigration; Chaney condemns Labor ‘park barrelling’ allegations",
+          "url": "https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb",
+          "published_at": "2026-09-07T22:31:03+00:00",
+          "source": "The Guardian",
+          "category": "World"
+        },
+        {
+          "title": "Food price cap plans giving farmer 'sleepless nights'",
+          "url": "https://www.bbc.co.uk/news/articles/c9w41xw74p8o",
+          "published_at": "2026-09-07T22:22:58+00:00",
+          "source": "BBC News",
+          "category": "Business"
+        },
+        {
+          "title": "APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars",
+          "url": "https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/",
+          "published_at": "2026-09-07T04:05:00+00:00",
+          "source": "NASA",
+          "category": "Science"
+        }
+      ],
+      "status": "reserved",
+      "organization_id": "143606150",
+      "text": "WORLD & HUMAN | News briefing | 07 Sep 2026\n\nWORLD — The Guardian\n“Australia politics live: Howard warns about limiting immigration; Chaney condemns Labor ‘park barrelling’ allegations”\nhttps://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb\n\nBUSINESS — BBC News\n“Food price cap plans giving farmer 'sleepless nights'”\nhttps://www.bbc.co.uk/news/articles/c9w41xw74p8o\n\nSCIENCE — NASA\n“APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars”\nhttps://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
     }
   ]
 }
