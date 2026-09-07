@@ -171,9 +171,11 @@
           "category": "Science"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 07 Sep 2026\n\nWORLD — BBC News\n“Germany's far-right AfD says 'democracy demands' parties work with them after state election win”\nhttps://www.bbc.co.uk/news/articles/cpd0113082eo\n\nSPORT — The Guardian\n“Serie A’s hierarchy takes shape with wild night in Milan and flat draw in Turin | Nicky Bandini”\nhttps://www.theguardian.com/football/2026/sep/07/inter-napoli-juventus-milan-serie-a-hierarchy\n\nSCIENCE — NASA\n“APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars”\nhttps://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 07 Sep 2026\n\nWORLD — BBC News\n“Germany's far-right AfD says 'democracy demands' parties work with them after state election win”\nhttps://www.bbc.co.uk/news/articles/cpd0113082eo\n\nSPORT — The Guardian\n“Serie A’s hierarchy takes shape with wild night in Milan and flat draw in Turin | Nicky Bandini”\nhttps://www.theguardian.com/football/2026/sep/07/inter-napoli-juventus-milan-serie-a-hierarchy\n\nSCIENCE — NASA\n“APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars”\nhttps://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
