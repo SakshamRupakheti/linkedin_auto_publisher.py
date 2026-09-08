@@ -240,6 +240,29 @@
       "text": "WORLD & HUMAN | News briefing | 08 Sep 2026\n\nWORLD — The Guardian\n“Ed Miliband to make statement on UK plan to sanction illegal Israeli settlements – UK politics live”\nhttps://www.theguardian.com/politics/live/2026/sep/08/uk-us-trade-israel-sanctions-labour-ed-miliband-farage-latest-news-updates\n\nBUSINESS — BBC News\n“Canada braces for prolonged trade war as counter-tariffs on US take effect”\nhttps://www.bbc.co.uk/news/articles/c8jdev0422jo\n\nSCIENCE — NASA\n“APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole”\nhttps://science.nasa.gov/image-article/apod-2026-september-8-hubble-decagon-around-saturns-south-pole/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
       "http_status": 400,
       "error_message": "Organization Or Events permissions must be used when using organization as author"
+    },
+    {
+      "id": "867655e880563cf12cf4",
+      "created_at": "2026-09-08T22:44:01.584040+00:00",
+      "articles": [
+        {
+          "title": "Australian politics live: Albanese makes ‘no apology’ for $6m golf club grant in own electorate; Victorian bills may rise by $100 under Coalition",
+          "url": "https://www.theguardian.com/australia-news/live/2026/sep/09/coalition-victoria-energy-bills-labor-one-nation-super-digital-duty-of-care-ntwnfb",
+          "published_at": "2026-09-08T22:40:06+00:00",
+          "source": "The Guardian",
+          "category": "World"
+        },
+        {
+          "title": "More flight delays expected after hundreds cancelled by air traffic control glitch",
+          "url": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo",
+          "published_at": "2026-09-08T21:46:21+00:00",
+          "source": "BBC News",
+          "category": "Business"
+        }
+      ],
+      "status": "reserved",
+      "organization_id": "143606150",
+      "text": "WORLD & HUMAN | News briefing | 08 Sep 2026\n\nWORLD — The Guardian\n“Australian politics live: Albanese makes ‘no apology’ for $6m golf club grant in own electorate; Victorian bills may rise by $100 under Coalition”\nhttps://www.theguardian.com/australia-news/live/2026/sep/09/coalition-victoria-energy-bills-labor-one-nation-super-digital-duty-of-care-ntwnfb\n\nBUSINESS — BBC News\n“More flight delays expected after hundreds cancelled by air traffic control glitch”\nhttps://www.bbc.co.uk/news/articles/ce8x3dp1zpxo\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
     }
   ]
 }
