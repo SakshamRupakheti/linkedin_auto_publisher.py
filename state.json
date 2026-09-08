@@ -235,9 +235,11 @@
           "category": "Science"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 08 Sep 2026\n\nWORLD — The Guardian\n“Ed Miliband to make statement on UK plan to sanction illegal Israeli settlements – UK politics live”\nhttps://www.theguardian.com/politics/live/2026/sep/08/uk-us-trade-israel-sanctions-labour-ed-miliband-farage-latest-news-updates\n\nBUSINESS — BBC News\n“Canada braces for prolonged trade war as counter-tariffs on US take effect”\nhttps://www.bbc.co.uk/news/articles/c8jdev0422jo\n\nSCIENCE — NASA\n“APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole”\nhttps://science.nasa.gov/image-article/apod-2026-september-8-hubble-decagon-around-saturns-south-pole/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 08 Sep 2026\n\nWORLD — The Guardian\n“Ed Miliband to make statement on UK plan to sanction illegal Israeli settlements – UK politics live”\nhttps://www.theguardian.com/politics/live/2026/sep/08/uk-us-trade-israel-sanctions-labour-ed-miliband-farage-latest-news-updates\n\nBUSINESS — BBC News\n“Canada braces for prolonged trade war as counter-tariffs on US take effect”\nhttps://www.bbc.co.uk/news/articles/c8jdev0422jo\n\nSCIENCE — NASA\n“APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole”\nhttps://science.nasa.gov/image-article/apod-2026-september-8-hubble-decagon-around-saturns-south-pole/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
