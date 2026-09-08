@@ -260,9 +260,11 @@
           "category": "Business"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 08 Sep 2026\n\nWORLD — The Guardian\n“Australian politics live: Albanese makes ‘no apology’ for $6m golf club grant in own electorate; Victorian bills may rise by $100 under Coalition”\nhttps://www.theguardian.com/australia-news/live/2026/sep/09/coalition-victoria-energy-bills-labor-one-nation-super-digital-duty-of-care-ntwnfb\n\nBUSINESS — BBC News\n“More flight delays expected after hundreds cancelled by air traffic control glitch”\nhttps://www.bbc.co.uk/news/articles/ce8x3dp1zpxo\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 08 Sep 2026\n\nWORLD — The Guardian\n“Australian politics live: Albanese makes ‘no apology’ for $6m golf club grant in own electorate; Victorian bills may rise by $100 under Coalition”\nhttps://www.theguardian.com/australia-news/live/2026/sep/09/coalition-victoria-energy-bills-labor-one-nation-super-digital-duty-of-care-ntwnfb\n\nBUSINESS — BBC News\n“More flight delays expected after hundreds cancelled by air traffic control glitch”\nhttps://www.bbc.co.uk/news/articles/ce8x3dp1zpxo\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
