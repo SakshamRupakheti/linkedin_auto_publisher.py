@@ -285,9 +285,11 @@
           "category": "Culture"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 09 Sep 2026\n\nWORLD — The Guardian\n“UK ‘showing leadership’ with West Bank sanctions, says Burnham as he faces Badenoch at PMQs – politics live”\nhttps://www.theguardian.com/politics/live/2026/sep/09/uk-israel-west-bank-ed-miliband-andy-burnham-uk-politics-latest-news-updates\n\nCULTURE — BBC News\n“Actor Noel Clarke charged with sexual offences”\nhttps://www.bbc.co.uk/news/articles/c86x0y3wd9do\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 09 Sep 2026\n\nWORLD — The Guardian\n“UK ‘showing leadership’ with West Bank sanctions, says Burnham as he faces Badenoch at PMQs – politics live”\nhttps://www.theguardian.com/politics/live/2026/sep/09/uk-israel-west-bank-ed-miliband-andy-burnham-uk-politics-latest-news-updates\n\nCULTURE — BBC News\n“Actor Noel Clarke charged with sexual offences”\nhttps://www.bbc.co.uk/news/articles/c86x0y3wd9do\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
