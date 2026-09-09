@@ -317,9 +317,11 @@
           "category": "Science"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 09 Sep 2026\n\nWORLD — The Guardian\n“Republicans’ midterm convention kicks off as national party chair says event will be about ‘defying history’ – live”\nhttps://www.theguardian.com/us-news/live/2026/sep/09/donald-trump-rnc-republican-national-convention-jd-vance-midterms-latest-news-updates\n\nCULTURE — BBC News\n“BBC drops Drag Race UK after eight series”\nhttps://www.bbc.co.uk/news/articles/cq63816e60lo\n\nSCIENCE — NASA\n“NASA Adds Relativity Space’s Terran R to Launch Services Contract”\nhttps://www.nasa.gov/news-release/nasa-adds-relativity-spaces-terran-r-to-launch-services-contract/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 09 Sep 2026\n\nWORLD — The Guardian\n“Republicans’ midterm convention kicks off as national party chair says event will be about ‘defying history’ – live”\nhttps://www.theguardian.com/us-news/live/2026/sep/09/donald-trump-rnc-republican-national-convention-jd-vance-midterms-latest-news-updates\n\nCULTURE — BBC News\n“BBC drops Drag Race UK after eight series”\nhttps://www.bbc.co.uk/news/articles/cq63816e60lo\n\nSCIENCE — NASA\n“NASA Adds Relativity Space’s Terran R to Launch Services Contract”\nhttps://www.nasa.gov/news-release/nasa-adds-relativity-spaces-terran-r-to-launch-services-contract/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
