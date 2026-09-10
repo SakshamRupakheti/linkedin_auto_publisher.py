@@ -322,6 +322,36 @@
       "text": "WORLD & HUMAN | News briefing | 09 Sep 2026\n\nWORLD — The Guardian\n“Republicans’ midterm convention kicks off as national party chair says event will be about ‘defying history’ – live”\nhttps://www.theguardian.com/us-news/live/2026/sep/09/donald-trump-rnc-republican-national-convention-jd-vance-midterms-latest-news-updates\n\nCULTURE — BBC News\n“BBC drops Drag Race UK after eight series”\nhttps://www.bbc.co.uk/news/articles/cq63816e60lo\n\nSCIENCE — NASA\n“NASA Adds Relativity Space’s Terran R to Launch Services Contract”\nhttps://www.nasa.gov/news-release/nasa-adds-relativity-spaces-terran-r-to-launch-services-contract/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
       "http_status": 400,
       "error_message": "Organization Or Events permissions must be used when using organization as author"
+    },
+    {
+      "id": "b8d2fd103301e8baefbd",
+      "created_at": "2026-09-10T12:58:04.251124+00:00",
+      "articles": [
+        {
+          "title": "England v Pakistan: third men’s cricket Test, day two – live",
+          "url": "https://www.theguardian.com/sport/live/2026/sep/10/england-v-pakistan-third-mens-cricket-test-day-two-live",
+          "published_at": "2026-09-10T12:55:05+00:00",
+          "source": "The Guardian",
+          "category": "Sport"
+        },
+        {
+          "title": "England's mayors to get power to impose tourist tax",
+          "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo",
+          "published_at": "2026-09-10T12:33:48+00:00",
+          "source": "BBC News",
+          "category": "Business"
+        },
+        {
+          "title": "APOD: 2026 September 10 – LDN 1295: The Giraffe Nebula",
+          "url": "https://science.nasa.gov/image-article/apod-2026-september-10-ldn-1295-the-giraffe-nebula/",
+          "published_at": "2026-09-10T04:05:00+00:00",
+          "source": "NASA",
+          "category": "Science"
+        }
+      ],
+      "status": "reserved",
+      "organization_id": "143606150",
+      "text": "WORLD & HUMAN | News briefing | 10 Sep 2026\n\nSPORT — The Guardian\n“England v Pakistan: third men’s cricket Test, day two – live”\nhttps://www.theguardian.com/sport/live/2026/sep/10/england-v-pakistan-third-mens-cricket-test-day-two-live\n\nBUSINESS — BBC News\n“England's mayors to get power to impose tourist tax”\nhttps://www.bbc.co.uk/news/articles/c3wjnv3z8nxo\n\nSCIENCE — NASA\n“APOD: 2026 September 10 – LDN 1295: The Giraffe Nebula”\nhttps://science.nasa.gov/image-article/apod-2026-september-10-ldn-1295-the-giraffe-nebula/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
     }
   ]
 }
