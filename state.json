@@ -381,9 +381,11 @@
           "category": "Science"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 10 Sep 2026\n\nSPORT — The Guardian\n“US Open tennis 2026 women’s semi-finals: Sabalenka v Pegula, Gauff v Rybakina – live”\nhttps://www.theguardian.com/sport/live/2026/sep/10/us-open-womens-semifinals-sabalenka-pegula-gauff-rybakina-live-updates\n\nHEALTH — BBC News\n“William and Catherine praise role of sports in suicide prevention”\nhttps://www.bbc.co.uk/news/videos/cy4zr0219kjo\n\nSCIENCE — NASA\n“NASA Invites Media to Djibouti Artemis Accords Signing Ceremony”\nhttps://www.nasa.gov/news-release/nasa-invites-media-to-djibouti-artemis-accords-signing-ceremony/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 10 Sep 2026\n\nSPORT — The Guardian\n“US Open tennis 2026 women’s semi-finals: Sabalenka v Pegula, Gauff v Rybakina – live”\nhttps://www.theguardian.com/sport/live/2026/sep/10/us-open-womens-semifinals-sabalenka-pegula-gauff-rybakina-live-updates\n\nHEALTH — BBC News\n“William and Catherine praise role of sports in suicide prevention”\nhttps://www.bbc.co.uk/news/videos/cy4zr0219kjo\n\nSCIENCE — NASA\n“NASA Invites Media to Djibouti Artemis Accords Signing Ceremony”\nhttps://www.nasa.gov/news-release/nasa-invites-media-to-djibouti-artemis-accords-signing-ceremony/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
