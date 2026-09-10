@@ -349,9 +349,11 @@
           "category": "Science"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 10 Sep 2026\n\nSPORT — The Guardian\n“England v Pakistan: third men’s cricket Test, day two – live”\nhttps://www.theguardian.com/sport/live/2026/sep/10/england-v-pakistan-third-mens-cricket-test-day-two-live\n\nBUSINESS — BBC News\n“England's mayors to get power to impose tourist tax”\nhttps://www.bbc.co.uk/news/articles/c3wjnv3z8nxo\n\nSCIENCE — NASA\n“APOD: 2026 September 10 – LDN 1295: The Giraffe Nebula”\nhttps://science.nasa.gov/image-article/apod-2026-september-10-ldn-1295-the-giraffe-nebula/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 10 Sep 2026\n\nSPORT — The Guardian\n“England v Pakistan: third men’s cricket Test, day two – live”\nhttps://www.theguardian.com/sport/live/2026/sep/10/england-v-pakistan-third-mens-cricket-test-day-two-live\n\nBUSINESS — BBC News\n“England's mayors to get power to impose tourist tax”\nhttps://www.bbc.co.uk/news/articles/c3wjnv3z8nxo\n\nSCIENCE — NASA\n“APOD: 2026 September 10 – LDN 1295: The Giraffe Nebula”\nhttps://science.nasa.gov/image-article/apod-2026-september-10-ldn-1295-the-giraffe-nebula/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
