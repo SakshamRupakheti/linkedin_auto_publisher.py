@@ -386,6 +386,36 @@
       "text": "WORLD & HUMAN | News briefing | 10 Sep 2026\n\nSPORT — The Guardian\n“US Open tennis 2026 women’s semi-finals: Sabalenka v Pegula, Gauff v Rybakina – live”\nhttps://www.theguardian.com/sport/live/2026/sep/10/us-open-womens-semifinals-sabalenka-pegula-gauff-rybakina-live-updates\n\nHEALTH — BBC News\n“William and Catherine praise role of sports in suicide prevention”\nhttps://www.bbc.co.uk/news/videos/cy4zr0219kjo\n\nSCIENCE — NASA\n“NASA Invites Media to Djibouti Artemis Accords Signing Ceremony”\nhttps://www.nasa.gov/news-release/nasa-invites-media-to-djibouti-artemis-accords-signing-ceremony/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
       "http_status": 400,
       "error_message": "Organization Or Events permissions must be used when using organization as author"
+    },
+    {
+      "id": "62447da2f9cf12927fd4",
+      "created_at": "2026-09-11T12:52:08.557275+00:00",
+      "articles": [
+        {
+          "title": "Does this AI comic make you laugh?",
+          "url": "https://www.bbc.co.uk/news/videos/c5yjk63ww1ro",
+          "published_at": "2026-09-11T12:49:30+00:00",
+          "source": "BBC News",
+          "category": "Technology"
+        },
+        {
+          "title": "9/11 families gather at World Trade Center and Pentagon to remember victims on 25th anniversary – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/sep/11/september-11-anniversary-memorials-world-trade-center-pentagon-vance-trump-us-politics-live",
+          "published_at": "2026-09-11T12:46:28+00:00",
+          "source": "The Guardian",
+          "category": "World"
+        },
+        {
+          "title": "APOD: 2026 September 11 – M83: The Southern Pinwheel",
+          "url": "https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel/",
+          "published_at": "2026-09-11T04:05:00+00:00",
+          "source": "NASA",
+          "category": "Science"
+        }
+      ],
+      "status": "reserved",
+      "organization_id": "143606150",
+      "text": "WORLD & HUMAN | News briefing | 11 Sep 2026\n\nTECHNOLOGY — BBC News\n“Does this AI comic make you laugh?”\nhttps://www.bbc.co.uk/news/videos/c5yjk63ww1ro\n\nWORLD — The Guardian\n“9/11 families gather at World Trade Center and Pentagon to remember victims on 25th anniversary – US politics live”\nhttps://www.theguardian.com/us-news/live/2026/sep/11/september-11-anniversary-memorials-world-trade-center-pentagon-vance-trump-us-politics-live\n\nSCIENCE — NASA\n“APOD: 2026 September 11 – M83: The Southern Pinwheel”\nhttps://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
     }
   ]
 }
