@@ -445,9 +445,11 @@
           "category": "Science"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 11 Sep 2026\n\nSPORT — The Guardian\n“US Open tennis 2026 men’s semi-final: Zverev beats Khachanov in straight sets – live”\nhttps://www.theguardian.com/sport/live/2026/sep/11/us-open-tennis-2026-mens-semi-final-alexander-zverev-v-karen-khachanov-live\n\nWORLD — BBC News\n“Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane”\nhttps://www.bbc.co.uk/news/articles/c23x72yx2rvo\n\nSCIENCE — NASA\n“Help Refine Data from Space Telescopes with Artifact InSPECtor”\nhttps://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 11 Sep 2026\n\nSPORT — The Guardian\n“US Open tennis 2026 men’s semi-final: Zverev beats Khachanov in straight sets – live”\nhttps://www.theguardian.com/sport/live/2026/sep/11/us-open-tennis-2026-mens-semi-final-alexander-zverev-v-karen-khachanov-live\n\nWORLD — BBC News\n“Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane”\nhttps://www.bbc.co.uk/news/articles/c23x72yx2rvo\n\nSCIENCE — NASA\n“Help Refine Data from Space Telescopes with Artifact InSPECtor”\nhttps://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
