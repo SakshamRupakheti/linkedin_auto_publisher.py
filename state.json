@@ -477,9 +477,11 @@
           "category": "Science"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 12 Sep 2026\n\nSPORT — The Guardian\n“Spurs and Villa hunt first league wins, Arsenal face Sunderland test, early kick-offs and team news – matchday live”\nhttps://www.theguardian.com/football/live/2026/sep/12/matchday-live-tottenham-aston-villa-sunderland-arsenal-liverpool-chelsea-fulham\n\nWORLD — BBC News\n“A united Ireland would be 'fantastic' says Trump during Irish visit”\nhttps://www.bbc.co.uk/news/articles/cy0zvx15rywo\n\nSCIENCE — NASA\n“Help Refine Data from Space Telescopes with Artifact InSPECtor”\nhttps://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 12 Sep 2026\n\nSPORT — The Guardian\n“Spurs and Villa hunt first league wins, Arsenal face Sunderland test, early kick-offs and team news – matchday live”\nhttps://www.theguardian.com/football/live/2026/sep/12/matchday-live-tottenham-aston-villa-sunderland-arsenal-liverpool-chelsea-fulham\n\nWORLD — BBC News\n“A united Ireland would be 'fantastic' says Trump during Irish visit”\nhttps://www.bbc.co.uk/news/articles/cy0zvx15rywo\n\nSCIENCE — NASA\n“Help Refine Data from Space Telescopes with Artifact InSPECtor”\nhttps://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
