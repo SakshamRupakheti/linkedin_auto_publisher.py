@@ -541,9 +541,11 @@
           "category": "Science"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 13 Sep 2026\n\nSPORT — The Guardian\n“Spanish Grand Prix: Formula One – live”\nhttps://www.theguardian.com/sport/live/2026/sep/13/spanish-grand-prix-formula-one-live\n\nWORLD — BBC News\n“Six dead, 130 missing after Indonesian ferry capsizes in Java Sea”\nhttps://www.bbc.co.uk/news/articles/cvgykzgljlyo\n\nSCIENCE — NASA\n“APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea”\nhttps://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 13 Sep 2026\n\nSPORT — The Guardian\n“Spanish Grand Prix: Formula One – live”\nhttps://www.theguardian.com/sport/live/2026/sep/13/spanish-grand-prix-formula-one-live\n\nWORLD — BBC News\n“Six dead, 130 missing after Indonesian ferry capsizes in Java Sea”\nhttps://www.bbc.co.uk/news/articles/cvgykzgljlyo\n\nSCIENCE — NASA\n“APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea”\nhttps://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
