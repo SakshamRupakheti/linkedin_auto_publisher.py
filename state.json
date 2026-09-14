@@ -598,9 +598,11 @@
           "category": "World"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 14 Sep 2026\n\nSCIENCE — BBC News\n“Flash flooding interrupts half-marathon, submerges cars”\nhttps://www.bbc.co.uk/news/articles/cx1l6rzj86vgo\n\nWORLD — The Guardian\n“US environment agency reportedly set to scrap power-plant pollution limits – live”\nhttps://www.theguardian.com/us-news/live/2026/sep/14/donald-trump-mail-in-voting-supreme-court-blocked-ukraine-oil-diplomat-latest-news-updates\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 14 Sep 2026\n\nSCIENCE — BBC News\n“Flash flooding interrupts half-marathon, submerges cars”\nhttps://www.bbc.co.uk/news/articles/cx1l6rzj86vgo\n\nWORLD — The Guardian\n“US environment agency reportedly set to scrap power-plant pollution limits – live”\nhttps://www.theguardian.com/us-news/live/2026/sep/14/donald-trump-mail-in-voting-supreme-court-blocked-ukraine-oil-diplomat-latest-news-updates\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
