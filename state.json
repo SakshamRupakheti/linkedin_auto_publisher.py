@@ -578,6 +578,29 @@
       "text": "WORLD & HUMAN | News briefing | 13 Sep 2026\n\nWORLD — BBC News\n“Swedish party blocs tied after Sunday vote, projections say”\nhttps://www.bbc.co.uk/news/articles/c0qx5d79kdeo\n\nSPORT — The Guardian\n“US Open 2026 men’s final: Alexander Zverev beats Ben Shelton in four sets to claim title – live reaction”\nhttps://www.theguardian.com/sport/live/2026/sep/13/us-open-tennis-2026-mens-final-alexander-zverev-v-ben-shelton-live-updates\n\nSCIENCE — NASA\n“APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea”\nhttps://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
       "http_status": 400,
       "error_message": "Organization Or Events permissions must be used when using organization as author"
+    },
+    {
+      "id": "09274b39a1a77fb5463e",
+      "created_at": "2026-09-14T15:04:20.426438+00:00",
+      "articles": [
+        {
+          "title": "Flash flooding interrupts half-marathon, submerges cars",
+          "url": "https://www.bbc.co.uk/news/articles/cx1l6rzj86vgo",
+          "published_at": "2026-09-14T15:01:28+00:00",
+          "source": "BBC News",
+          "category": "Science"
+        },
+        {
+          "title": "US environment agency reportedly set to scrap power-plant pollution limits – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/sep/14/donald-trump-mail-in-voting-supreme-court-blocked-ukraine-oil-diplomat-latest-news-updates",
+          "published_at": "2026-09-14T14:49:55+00:00",
+          "source": "The Guardian",
+          "category": "World"
+        }
+      ],
+      "status": "reserved",
+      "organization_id": "143606150",
+      "text": "WORLD & HUMAN | News briefing | 14 Sep 2026\n\nSCIENCE — BBC News\n“Flash flooding interrupts half-marathon, submerges cars”\nhttps://www.bbc.co.uk/news/articles/cx1l6rzj86vgo\n\nWORLD — The Guardian\n“US environment agency reportedly set to scrap power-plant pollution limits – live”\nhttps://www.theguardian.com/us-news/live/2026/sep/14/donald-trump-mail-in-voting-supreme-court-blocked-ukraine-oil-diplomat-latest-news-updates\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
     }
   ]
 }
