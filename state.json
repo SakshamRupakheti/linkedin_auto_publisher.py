@@ -662,9 +662,11 @@
           "category": "Sport"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 15 Sep 2026\n\nSCIENCE — NASA\n“Travel”\nhttps://www.nasa.gov/centers-and-facilities/nssc/travel/\n\nWORLD — BBC News\n“Suspected sabotage causes major Netherlands rail disruption”\nhttps://www.bbc.co.uk/news/articles/c8ly49w9g1edo\n\nSPORT — The Guardian\n“Yorkshire v Somerset, Sussex v Notts, and more: county cricket, day one – live”\nhttps://www.theguardian.com/sport/live/2026/sep/15/yorkshire-v-somerset-sussex-v-notts-and-more-county-cricket-day-one-live\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 15 Sep 2026\n\nSCIENCE — NASA\n“Travel”\nhttps://www.nasa.gov/centers-and-facilities/nssc/travel/\n\nWORLD — BBC News\n“Suspected sabotage causes major Netherlands rail disruption”\nhttps://www.bbc.co.uk/news/articles/c8ly49w9g1edo\n\nSPORT — The Guardian\n“Yorkshire v Somerset, Sussex v Notts, and more: county cricket, day one – live”\nhttps://www.theguardian.com/sport/live/2026/sep/15/yorkshire-v-somerset-sussex-v-notts-and-more-county-cricket-day-one-live\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
