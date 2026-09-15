@@ -635,6 +635,36 @@
       "text": "WORLD & HUMAN | News briefing | 14 Sep 2026\n\nBUSINESS — BBC News\n“I got paid $5,000 to move to a place I'd never heard of”\nhttps://www.bbc.co.uk/news/articles/c3eq7485kewo\n\nWORLD — The Guardian\n“Australia politics live: Labor defends Catherine King’s top-tier Qantas membership gift; defence recruitment reaches 16-year high”\nhttps://www.theguardian.com/australia-news/live/2026/sep/15/one-nation-pauline-hanson-immigration-coalition-andrew-hastie-angus-taylor-labor-anthony-albanese-ntwnfb\n\nSCIENCE — NASA\n“Webinar 9/23: NASA CSDA Program Update 2026”\nhttps://science.nasa.gov/science-research/earth-science/webinar-9-23-nasa-csda-program-update-2026/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
       "http_status": 400,
       "error_message": "Organization Or Events permissions must be used when using organization as author"
+    },
+    {
+      "id": "51664489bfb60f7bc403",
+      "created_at": "2026-09-15T13:39:10.946733+00:00",
+      "articles": [
+        {
+          "title": "Travel",
+          "url": "https://www.nasa.gov/centers-and-facilities/nssc/travel/",
+          "published_at": "2026-09-15T13:38:56+00:00",
+          "source": "NASA",
+          "category": "Science"
+        },
+        {
+          "title": "Suspected sabotage causes major Netherlands rail disruption",
+          "url": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo",
+          "published_at": "2026-09-15T13:33:16+00:00",
+          "source": "BBC News",
+          "category": "World"
+        },
+        {
+          "title": "Yorkshire v Somerset, Sussex v Notts, and more: county cricket, day one – live",
+          "url": "https://www.theguardian.com/sport/live/2026/sep/15/yorkshire-v-somerset-sussex-v-notts-and-more-county-cricket-day-one-live",
+          "published_at": "2026-09-15T13:24:35+00:00",
+          "source": "The Guardian",
+          "category": "Sport"
+        }
+      ],
+      "status": "reserved",
+      "organization_id": "143606150",
+      "text": "WORLD & HUMAN | News briefing | 15 Sep 2026\n\nSCIENCE — NASA\n“Travel”\nhttps://www.nasa.gov/centers-and-facilities/nssc/travel/\n\nWORLD — BBC News\n“Suspected sabotage causes major Netherlands rail disruption”\nhttps://www.bbc.co.uk/news/articles/c8ly49w9g1edo\n\nSPORT — The Guardian\n“Yorkshire v Somerset, Sussex v Notts, and more: county cricket, day one – live”\nhttps://www.theguardian.com/sport/live/2026/sep/15/yorkshire-v-somerset-sussex-v-notts-and-more-county-cricket-day-one-live\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
     }
   ]
 }
