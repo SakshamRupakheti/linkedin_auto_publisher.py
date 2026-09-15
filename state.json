@@ -687,9 +687,11 @@
           "category": "Business"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 15 Sep 2026\n\nWORLD — The Guardian\n“Politics live: former spy boss says ‘ball was dropped’ on antisemitism; Hastie says One Nation channelling ‘Maga’”\nhttps://www.theguardian.com/australia-news/live/2026/sep/16/pauline-hanson-one-nation-labor-anthony-albanese-artificial-intelligence-ntwnfb\n\nBUSINESS — BBC News\n“Nvidia boss says AI 'doesn't need new laws' as safety concerns grow”\nhttps://www.bbc.co.uk/news/articles/cqx2zpj4y525o\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 15 Sep 2026\n\nWORLD — The Guardian\n“Politics live: former spy boss says ‘ball was dropped’ on antisemitism; Hastie says One Nation channelling ‘Maga’”\nhttps://www.theguardian.com/australia-news/live/2026/sep/16/pauline-hanson-one-nation-labor-anthony-albanese-artificial-intelligence-ntwnfb\n\nBUSINESS — BBC News\n“Nvidia boss says AI 'doesn't need new laws' as safety concerns grow”\nhttps://www.bbc.co.uk/news/articles/cqx2zpj4y525o\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
