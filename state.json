@@ -667,6 +667,29 @@
       "text": "WORLD & HUMAN | News briefing | 15 Sep 2026\n\nSCIENCE — NASA\n“Travel”\nhttps://www.nasa.gov/centers-and-facilities/nssc/travel/\n\nWORLD — BBC News\n“Suspected sabotage causes major Netherlands rail disruption”\nhttps://www.bbc.co.uk/news/articles/c8ly49w9g1edo\n\nSPORT — The Guardian\n“Yorkshire v Somerset, Sussex v Notts, and more: county cricket, day one – live”\nhttps://www.theguardian.com/sport/live/2026/sep/15/yorkshire-v-somerset-sussex-v-notts-and-more-county-cricket-day-one-live\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
       "http_status": 400,
       "error_message": "Organization Or Events permissions must be used when using organization as author"
+    },
+    {
+      "id": "2d731e94df0aee7909e0",
+      "created_at": "2026-09-15T22:56:19.685235+00:00",
+      "articles": [
+        {
+          "title": "Politics live: former spy boss says ‘ball was dropped’ on antisemitism; Hastie says One Nation channelling ‘Maga’",
+          "url": "https://www.theguardian.com/australia-news/live/2026/sep/16/pauline-hanson-one-nation-labor-anthony-albanese-artificial-intelligence-ntwnfb",
+          "published_at": "2026-09-15T22:54:44+00:00",
+          "source": "The Guardian",
+          "category": "World"
+        },
+        {
+          "title": "Nvidia boss says AI 'doesn't need new laws' as safety concerns grow",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o",
+          "published_at": "2026-09-15T22:13:10+00:00",
+          "source": "BBC News",
+          "category": "Business"
+        }
+      ],
+      "status": "reserved",
+      "organization_id": "143606150",
+      "text": "WORLD & HUMAN | News briefing | 15 Sep 2026\n\nWORLD — The Guardian\n“Politics live: former spy boss says ‘ball was dropped’ on antisemitism; Hastie says One Nation channelling ‘Maga’”\nhttps://www.theguardian.com/australia-news/live/2026/sep/16/pauline-hanson-one-nation-labor-anthony-albanese-artificial-intelligence-ntwnfb\n\nBUSINESS — BBC News\n“Nvidia boss says AI 'doesn't need new laws' as safety concerns grow”\nhttps://www.bbc.co.uk/news/articles/cqx2zpj4y525o\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
     }
   ]
 }
