@@ -719,9 +719,11 @@
           "category": "Science"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 16 Sep 2026\n\nWORLD — BBC News\n“Legendary Nigerian actor Olu Jacobs dies aged 84”\nhttps://www.bbc.co.uk/news/articles/cw4gr5jnd134o\n\nSPORT — The Guardian\n“Yorkshire v Somerset, Sussex v Notts and more: County Championship cricket, day two – live”\nhttps://www.theguardian.com/sport/live/2026/sep/16/yorkshire-v-somerset-sussex-v-notts-and-more-county-championship-cricket-day-two-live\n\nSCIENCE — NASA\n“APOD: 2026 September 16 – Webb’s View of M64”\nhttps://science.nasa.gov/image-article/apod-2026-september-16-webbs-view-of-m64/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 16 Sep 2026\n\nWORLD — BBC News\n“Legendary Nigerian actor Olu Jacobs dies aged 84”\nhttps://www.bbc.co.uk/news/articles/cw4gr5jnd134o\n\nSPORT — The Guardian\n“Yorkshire v Somerset, Sussex v Notts and more: County Championship cricket, day two – live”\nhttps://www.theguardian.com/sport/live/2026/sep/16/yorkshire-v-somerset-sussex-v-notts-and-more-county-championship-cricket-day-two-live\n\nSCIENCE — NASA\n“APOD: 2026 September 16 – Webb’s View of M64”\nhttps://science.nasa.gov/image-article/apod-2026-september-16-webbs-view-of-m64/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
