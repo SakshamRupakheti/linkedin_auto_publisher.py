@@ -751,9 +751,11 @@
           "category": "Science"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 16 Sep 2026\n\nWORLD — The Guardian\n“Trump blasts interest rate uptick and claims US is doing so well that rates ‘should be 1%, or less’ – live”\nhttps://www.theguardian.com/us-news/live/2026/sep/16/donald-trump-iran-russia-midterms-north-carolina-latest-news-updates\n\nBUSINESS — BBC News\n“Watch: Why has the Federal Reserve raised interest rates?”\nhttps://www.bbc.co.uk/news/videos/cmx2zw08dvk9o\n\nSCIENCE — NASA\n“Passion Meets Precision at NASA’s Flight Research Lab”\nhttps://www.nasa.gov/people-of-nasa/armstrong-people/passion-meets-precision-at-nasas-flight-research-lab/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 16 Sep 2026\n\nWORLD — The Guardian\n“Trump blasts interest rate uptick and claims US is doing so well that rates ‘should be 1%, or less’ – live”\nhttps://www.theguardian.com/us-news/live/2026/sep/16/donald-trump-iran-russia-midterms-north-carolina-latest-news-updates\n\nBUSINESS — BBC News\n“Watch: Why has the Federal Reserve raised interest rates?”\nhttps://www.bbc.co.uk/news/videos/cmx2zw08dvk9o\n\nSCIENCE — NASA\n“Passion Meets Precision at NASA’s Flight Research Lab”\nhttps://www.nasa.gov/people-of-nasa/armstrong-people/passion-meets-precision-at-nasas-flight-research-lab/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
