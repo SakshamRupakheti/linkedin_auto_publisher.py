@@ -783,9 +783,11 @@
           "category": "Science"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 17 Sep 2026\n\nHEALTH — BBC News\n“New hope for breast cancer patients as life-extending drug now on NHS in England”\nhttps://www.bbc.co.uk/news/articles/c60qx4v825glo\n\nSPORT — The Guardian\n“Leicestershire facing relegation over pitch penalty, and more: County Championship cricket, day three – live”\nhttps://www.theguardian.com/sport/live/2026/sep/17/leicestershire-facing-relegation-over-pitch-penalty-and-more-county-championship-cricket-day-three-live\n\nSCIENCE — NASA\n“APOD: 2026 September 17 – A Treasure Chest in the Carina Nebula”\nhttps://science.nasa.gov/image-article/apod-2026-september-17-a-treasure-chest-in-the-carina-nebula/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 17 Sep 2026\n\nHEALTH — BBC News\n“New hope for breast cancer patients as life-extending drug now on NHS in England”\nhttps://www.bbc.co.uk/news/articles/c60qx4v825glo\n\nSPORT — The Guardian\n“Leicestershire facing relegation over pitch penalty, and more: County Championship cricket, day three – live”\nhttps://www.theguardian.com/sport/live/2026/sep/17/leicestershire-facing-relegation-over-pitch-penalty-and-more-county-championship-cricket-day-three-live\n\nSCIENCE — NASA\n“APOD: 2026 September 17 – A Treasure Chest in the Carina Nebula”\nhttps://science.nasa.gov/image-article/apod-2026-september-17-a-treasure-chest-in-the-carina-nebula/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
