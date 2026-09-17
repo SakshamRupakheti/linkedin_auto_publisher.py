@@ -788,6 +788,36 @@
       "text": "WORLD & HUMAN | News briefing | 17 Sep 2026\n\nHEALTH — BBC News\n“New hope for breast cancer patients as life-extending drug now on NHS in England”\nhttps://www.bbc.co.uk/news/articles/c60qx4v825glo\n\nSPORT — The Guardian\n“Leicestershire facing relegation over pitch penalty, and more: County Championship cricket, day three – live”\nhttps://www.theguardian.com/sport/live/2026/sep/17/leicestershire-facing-relegation-over-pitch-penalty-and-more-county-championship-cricket-day-three-live\n\nSCIENCE — NASA\n“APOD: 2026 September 17 – A Treasure Chest in the Carina Nebula”\nhttps://science.nasa.gov/image-article/apod-2026-september-17-a-treasure-chest-in-the-carina-nebula/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
       "http_status": 400,
       "error_message": "Organization Or Events permissions must be used when using organization as author"
+    },
+    {
+      "id": "504eee256d05a3d7f93e",
+      "created_at": "2026-09-17T22:53:13.263071+00:00",
+      "articles": [
+        {
+          "title": "YouTube star Ms Rachel to match Macklemore’s $1m Palestine aid donation",
+          "url": "https://www.theguardian.com/culture/2026/sep/17/ms-rachel-macklemore-palestine-donation",
+          "published_at": "2026-09-17T22:39:49+00:00",
+          "source": "The Guardian",
+          "category": "World"
+        },
+        {
+          "title": "Councils to share £5m in 'emergency food aid' as living costs rise",
+          "url": "https://www.bbc.co.uk/news/articles/c8dx5gvyle49o",
+          "published_at": "2026-09-17T21:55:12+00:00",
+          "source": "BBC News",
+          "category": "Business"
+        },
+        {
+          "title": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
+          "url": "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/",
+          "published_at": "2026-09-17T20:37:09+00:00",
+          "source": "NASA",
+          "category": "Science"
+        }
+      ],
+      "status": "reserved",
+      "organization_id": "143606150",
+      "text": "WORLD & HUMAN | News briefing | 17 Sep 2026\n\nWORLD — The Guardian\n“YouTube star Ms Rachel to match Macklemore’s $1m Palestine aid donation”\nhttps://www.theguardian.com/culture/2026/sep/17/ms-rachel-macklemore-palestine-donation\n\nBUSINESS — BBC News\n“Councils to share £5m in 'emergency food aid' as living costs rise”\nhttps://www.bbc.co.uk/news/articles/c8dx5gvyle49o\n\nSCIENCE — NASA\n“NASA Awards Launch Services for StarBurst Gamma-Ray Detector”\nhttps://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
     }
   ]
 }
