@@ -756,6 +756,36 @@
       "text": "WORLD & HUMAN | News briefing | 16 Sep 2026\n\nWORLD — The Guardian\n“Trump blasts interest rate uptick and claims US is doing so well that rates ‘should be 1%, or less’ – live”\nhttps://www.theguardian.com/us-news/live/2026/sep/16/donald-trump-iran-russia-midterms-north-carolina-latest-news-updates\n\nBUSINESS — BBC News\n“Watch: Why has the Federal Reserve raised interest rates?”\nhttps://www.bbc.co.uk/news/videos/cmx2zw08dvk9o\n\nSCIENCE — NASA\n“Passion Meets Precision at NASA’s Flight Research Lab”\nhttps://www.nasa.gov/people-of-nasa/armstrong-people/passion-meets-precision-at-nasas-flight-research-lab/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
       "http_status": 400,
       "error_message": "Organization Or Events permissions must be used when using organization as author"
+    },
+    {
+      "id": "552d0ee19466b8abbb38",
+      "created_at": "2026-09-17T13:34:21.465368+00:00",
+      "articles": [
+        {
+          "title": "New hope for breast cancer patients as life-extending drug now on NHS in England",
+          "url": "https://www.bbc.co.uk/news/articles/c60qx4v825glo",
+          "published_at": "2026-09-17T13:32:00+00:00",
+          "source": "BBC News",
+          "category": "Health"
+        },
+        {
+          "title": "Leicestershire facing relegation over pitch penalty, and more: County Championship cricket, day three – live",
+          "url": "https://www.theguardian.com/sport/live/2026/sep/17/leicestershire-facing-relegation-over-pitch-penalty-and-more-county-championship-cricket-day-three-live",
+          "published_at": "2026-09-17T13:30:10+00:00",
+          "source": "The Guardian",
+          "category": "Sport"
+        },
+        {
+          "title": "APOD: 2026 September 17 – A Treasure Chest in the Carina Nebula",
+          "url": "https://science.nasa.gov/image-article/apod-2026-september-17-a-treasure-chest-in-the-carina-nebula/",
+          "published_at": "2026-09-17T04:05:00+00:00",
+          "source": "NASA",
+          "category": "Science"
+        }
+      ],
+      "status": "reserved",
+      "organization_id": "143606150",
+      "text": "WORLD & HUMAN | News briefing | 17 Sep 2026\n\nHEALTH — BBC News\n“New hope for breast cancer patients as life-extending drug now on NHS in England”\nhttps://www.bbc.co.uk/news/articles/c60qx4v825glo\n\nSPORT — The Guardian\n“Leicestershire facing relegation over pitch penalty, and more: County Championship cricket, day three – live”\nhttps://www.theguardian.com/sport/live/2026/sep/17/leicestershire-facing-relegation-over-pitch-penalty-and-more-county-championship-cricket-day-three-live\n\nSCIENCE — NASA\n“APOD: 2026 September 17 – A Treasure Chest in the Carina Nebula”\nhttps://science.nasa.gov/image-article/apod-2026-september-17-a-treasure-chest-in-the-carina-nebula/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
     }
   ]
 }
