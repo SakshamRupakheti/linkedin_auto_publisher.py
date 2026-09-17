@@ -815,9 +815,11 @@
           "category": "Science"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 17 Sep 2026\n\nWORLD — The Guardian\n“YouTube star Ms Rachel to match Macklemore’s $1m Palestine aid donation”\nhttps://www.theguardian.com/culture/2026/sep/17/ms-rachel-macklemore-palestine-donation\n\nBUSINESS — BBC News\n“Councils to share £5m in 'emergency food aid' as living costs rise”\nhttps://www.bbc.co.uk/news/articles/c8dx5gvyle49o\n\nSCIENCE — NASA\n“NASA Awards Launch Services for StarBurst Gamma-Ray Detector”\nhttps://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 17 Sep 2026\n\nWORLD — The Guardian\n“YouTube star Ms Rachel to match Macklemore’s $1m Palestine aid donation”\nhttps://www.theguardian.com/culture/2026/sep/17/ms-rachel-macklemore-palestine-donation\n\nBUSINESS — BBC News\n“Councils to share £5m in 'emergency food aid' as living costs rise”\nhttps://www.bbc.co.uk/news/articles/c8dx5gvyle49o\n\nSCIENCE — NASA\n“NASA Awards Launch Services for StarBurst Gamma-Ray Detector”\nhttps://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
