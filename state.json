@@ -820,6 +820,36 @@
       "text": "WORLD & HUMAN | News briefing | 17 Sep 2026\n\nWORLD — The Guardian\n“YouTube star Ms Rachel to match Macklemore’s $1m Palestine aid donation”\nhttps://www.theguardian.com/culture/2026/sep/17/ms-rachel-macklemore-palestine-donation\n\nBUSINESS — BBC News\n“Councils to share £5m in 'emergency food aid' as living costs rise”\nhttps://www.bbc.co.uk/news/articles/c8dx5gvyle49o\n\nSCIENCE — NASA\n“NASA Awards Launch Services for StarBurst Gamma-Ray Detector”\nhttps://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
       "http_status": 400,
       "error_message": "Organization Or Events permissions must be used when using organization as author"
+    },
+    {
+      "id": "ccb921b1a454ab8d62f2",
+      "created_at": "2026-09-18T13:00:04.489305+00:00",
+      "articles": [
+        {
+          "title": "Tuchel explains Alexander-Arnold and Palmer England recalls; Spain squad revealed in Ceuta: football news – live",
+          "url": "https://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live",
+          "published_at": "2026-09-18T12:56:55+00:00",
+          "source": "The Guardian",
+          "category": "Sport"
+        },
+        {
+          "title": "Flight chaos caused by software defect, says air traffic control body",
+          "url": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo",
+          "published_at": "2026-09-18T12:50:05+00:00",
+          "source": "BBC News",
+          "category": "Business"
+        },
+        {
+          "title": "APOD: 2026 September 18 – Messier 33: The Triangulum Galaxy",
+          "url": "https://science.nasa.gov/image-article/apod-2026-september-18-messier-33-the-triangulum-galaxy/",
+          "published_at": "2026-09-18T04:05:00+00:00",
+          "source": "NASA",
+          "category": "Science"
+        }
+      ],
+      "status": "reserved",
+      "organization_id": "143606150",
+      "text": "WORLD & HUMAN | News briefing | 18 Sep 2026\n\nSPORT — The Guardian\n“Tuchel explains Alexander-Arnold and Palmer England recalls; Spain squad revealed in Ceuta: football news – live”\nhttps://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live\n\nBUSINESS — BBC News\n“Flight chaos caused by software defect, says air traffic control body”\nhttps://www.bbc.co.uk/news/articles/cw0kl1571lpmo\n\nSCIENCE — NASA\n“APOD: 2026 September 18 – Messier 33: The Triangulum Galaxy”\nhttps://science.nasa.gov/image-article/apod-2026-september-18-messier-33-the-triangulum-galaxy/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
     }
   ]
 }
