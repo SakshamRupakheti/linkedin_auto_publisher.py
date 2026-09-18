@@ -879,9 +879,11 @@
           "category": "Science"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 18 Sep 2026\n\nWORLD — BBC News\n“US and Denmark reach deal over Greenland's security”\nhttps://www.bbc.co.uk/news/articles/c63d7lexyym1o\n\nSPORT — The Guardian\n“Harry Kane smashes record for fastest to 100 Bundesliga goals in 98th game”\nhttps://www.theguardian.com/football/2026/sep/18/harry-kane-smashes-record-for-fastest-to-100-bundesliga-goals-in-98th-game\n\nSCIENCE — NASA\n“NASA Invites Media to Albania Artemis Accords Signing Ceremony”\nhttps://www.nasa.gov/news-release/nasa-invites-media-to-albania-artemis-accords-signing-ceremony/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 18 Sep 2026\n\nWORLD — BBC News\n“US and Denmark reach deal over Greenland's security”\nhttps://www.bbc.co.uk/news/articles/c63d7lexyym1o\n\nSPORT — The Guardian\n“Harry Kane smashes record for fastest to 100 Bundesliga goals in 98th game”\nhttps://www.theguardian.com/football/2026/sep/18/harry-kane-smashes-record-for-fastest-to-100-bundesliga-goals-in-98th-game\n\nSCIENCE — NASA\n“NASA Invites Media to Albania Artemis Accords Signing Ceremony”\nhttps://www.nasa.gov/news-release/nasa-invites-media-to-albania-artemis-accords-signing-ceremony/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
