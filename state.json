@@ -847,9 +847,11 @@
           "category": "Science"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 18 Sep 2026\n\nSPORT — The Guardian\n“Tuchel explains Alexander-Arnold and Palmer England recalls; Spain squad revealed in Ceuta: football news – live”\nhttps://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live\n\nBUSINESS — BBC News\n“Flight chaos caused by software defect, says air traffic control body”\nhttps://www.bbc.co.uk/news/articles/cw0kl1571lpmo\n\nSCIENCE — NASA\n“APOD: 2026 September 18 – Messier 33: The Triangulum Galaxy”\nhttps://science.nasa.gov/image-article/apod-2026-september-18-messier-33-the-triangulum-galaxy/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 18 Sep 2026\n\nSPORT — The Guardian\n“Tuchel explains Alexander-Arnold and Palmer England recalls; Spain squad revealed in Ceuta: football news – live”\nhttps://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live\n\nBUSINESS — BBC News\n“Flight chaos caused by software defect, says air traffic control body”\nhttps://www.bbc.co.uk/news/articles/cw0kl1571lpmo\n\nSCIENCE — NASA\n“APOD: 2026 September 18 – Messier 33: The Triangulum Galaxy”\nhttps://science.nasa.gov/image-article/apod-2026-september-18-messier-33-the-triangulum-galaxy/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
