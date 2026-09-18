@@ -852,6 +852,36 @@
       "text": "WORLD & HUMAN | News briefing | 18 Sep 2026\n\nSPORT — The Guardian\n“Tuchel explains Alexander-Arnold and Palmer England recalls; Spain squad revealed in Ceuta: football news – live”\nhttps://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live\n\nBUSINESS — BBC News\n“Flight chaos caused by software defect, says air traffic control body”\nhttps://www.bbc.co.uk/news/articles/cw0kl1571lpmo\n\nSCIENCE — NASA\n“APOD: 2026 September 18 – Messier 33: The Triangulum Galaxy”\nhttps://science.nasa.gov/image-article/apod-2026-september-18-messier-33-the-triangulum-galaxy/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
       "http_status": 400,
       "error_message": "Organization Or Events permissions must be used when using organization as author"
+    },
+    {
+      "id": "1b5427e9c42e91ee4756",
+      "created_at": "2026-09-18T22:39:05.049681+00:00",
+      "articles": [
+        {
+          "title": "US and Denmark reach deal over Greenland's security",
+          "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o",
+          "published_at": "2026-09-18T22:23:55+00:00",
+          "source": "BBC News",
+          "category": "World"
+        },
+        {
+          "title": "Harry Kane smashes record for fastest to 100 Bundesliga goals in 98th game",
+          "url": "https://www.theguardian.com/football/2026/sep/18/harry-kane-smashes-record-for-fastest-to-100-bundesliga-goals-in-98th-game",
+          "published_at": "2026-09-18T22:04:40+00:00",
+          "source": "The Guardian",
+          "category": "Sport"
+        },
+        {
+          "title": "NASA Invites Media to Albania Artemis Accords Signing Ceremony",
+          "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-albania-artemis-accords-signing-ceremony/",
+          "published_at": "2026-09-18T19:56:08+00:00",
+          "source": "NASA",
+          "category": "Science"
+        }
+      ],
+      "status": "reserved",
+      "organization_id": "143606150",
+      "text": "WORLD & HUMAN | News briefing | 18 Sep 2026\n\nWORLD — BBC News\n“US and Denmark reach deal over Greenland's security”\nhttps://www.bbc.co.uk/news/articles/c63d7lexyym1o\n\nSPORT — The Guardian\n“Harry Kane smashes record for fastest to 100 Bundesliga goals in 98th game”\nhttps://www.theguardian.com/football/2026/sep/18/harry-kane-smashes-record-for-fastest-to-100-bundesliga-goals-in-98th-game\n\nSCIENCE — NASA\n“NASA Invites Media to Albania Artemis Accords Signing Ceremony”\nhttps://www.nasa.gov/news-release/nasa-invites-media-to-albania-artemis-accords-signing-ceremony/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
     }
   ]
 }
