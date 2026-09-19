@@ -884,6 +884,36 @@
       "text": "WORLD & HUMAN | News briefing | 18 Sep 2026\n\nWORLD — BBC News\n“US and Denmark reach deal over Greenland's security”\nhttps://www.bbc.co.uk/news/articles/c63d7lexyym1o\n\nSPORT — The Guardian\n“Harry Kane smashes record for fastest to 100 Bundesliga goals in 98th game”\nhttps://www.theguardian.com/football/2026/sep/18/harry-kane-smashes-record-for-fastest-to-100-bundesliga-goals-in-98th-game\n\nSCIENCE — NASA\n“NASA Invites Media to Albania Artemis Accords Signing Ceremony”\nhttps://www.nasa.gov/news-release/nasa-invites-media-to-albania-artemis-accords-signing-ceremony/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
       "http_status": 400,
       "error_message": "Organization Or Events permissions must be used when using organization as author"
+    },
+    {
+      "id": "8b0070ca88f50d9f8723",
+      "created_at": "2026-09-19T12:33:16.012012+00:00",
+      "articles": [
+        {
+          "title": "Tottenham v Aston Villa: Premier League – live",
+          "url": "https://www.theguardian.com/football/live/2026/sep/19/tottenham-v-aston-villa-premier-league-live",
+          "published_at": "2026-09-19T12:26:03+00:00",
+          "source": "The Guardian",
+          "category": "Sport"
+        },
+        {
+          "title": "Shark attack prompts rare kill order in Western Australia as victim named",
+          "url": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo",
+          "published_at": "2026-09-19T11:50:22+00:00",
+          "source": "BBC News",
+          "category": "World"
+        },
+        {
+          "title": "APOD: 2026 September 19 – A Zodiacal Night",
+          "url": "https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/",
+          "published_at": "2026-09-19T04:05:00+00:00",
+          "source": "NASA",
+          "category": "Science"
+        }
+      ],
+      "status": "reserved",
+      "organization_id": "143606150",
+      "text": "WORLD & HUMAN | News briefing | 19 Sep 2026\n\nSPORT — The Guardian\n“Tottenham v Aston Villa: Premier League – live”\nhttps://www.theguardian.com/football/live/2026/sep/19/tottenham-v-aston-villa-premier-league-live\n\nWORLD — BBC News\n“Shark attack prompts rare kill order in Western Australia as victim named”\nhttps://www.bbc.co.uk/news/articles/cqwyzdnk442lo\n\nSCIENCE — NASA\n“APOD: 2026 September 19 – A Zodiacal Night”\nhttps://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
     }
   ]
 }
