@@ -936,9 +936,11 @@
           "category": "Science"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 19 Sep 2026\n\nWORLD — The Guardian\n“Footballers and fans pay tribute to Noah Woods after toddler’s death in Suffolk”\nhttps://www.theguardian.com/uk-news/2026/sep/19/footballers-fans-noah-woods-suffolk-toddler-death-ipswich-town-everton\n\nSCIENCE — BBC News\n“Trump says US will form 'AI Force' and appoint an artificial intelligence tsar”\nhttps://www.bbc.co.uk/news/articles/cqlykr2vrv04o\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 19 Sep 2026\n\nWORLD — The Guardian\n“Footballers and fans pay tribute to Noah Woods after toddler’s death in Suffolk”\nhttps://www.theguardian.com/uk-news/2026/sep/19/footballers-fans-noah-woods-suffolk-toddler-death-ipswich-town-everton\n\nSCIENCE — BBC News\n“Trump says US will form 'AI Force' and appoint an artificial intelligence tsar”\nhttps://www.bbc.co.uk/news/articles/cqlykr2vrv04o\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
