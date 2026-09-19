@@ -911,9 +911,11 @@
           "category": "Science"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 19 Sep 2026\n\nSPORT — The Guardian\n“Tottenham v Aston Villa: Premier League – live”\nhttps://www.theguardian.com/football/live/2026/sep/19/tottenham-v-aston-villa-premier-league-live\n\nWORLD — BBC News\n“Shark attack prompts rare kill order in Western Australia as victim named”\nhttps://www.bbc.co.uk/news/articles/cqwyzdnk442lo\n\nSCIENCE — NASA\n“APOD: 2026 September 19 – A Zodiacal Night”\nhttps://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 19 Sep 2026\n\nSPORT — The Guardian\n“Tottenham v Aston Villa: Premier League – live”\nhttps://www.theguardian.com/football/live/2026/sep/19/tottenham-v-aston-villa-premier-league-live\n\nWORLD — BBC News\n“Shark attack prompts rare kill order in Western Australia as victim named”\nhttps://www.bbc.co.uk/news/articles/cqwyzdnk442lo\n\nSCIENCE — NASA\n“APOD: 2026 September 19 – A Zodiacal Night”\nhttps://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
