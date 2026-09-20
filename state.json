@@ -968,9 +968,11 @@
           "category": "Science"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 20 Sep 2026\n\nSPORT — The Guardian\n“Bournemouth v Liverpool: Premier League – live”\nhttps://www.theguardian.com/football/live/2026/sep/20/bournemouth-v-liverpool-premier-league-live\n\nBUSINESS — BBC News\n“Billionaire Man United owner loses moral high ground after tax exile, Labour chair says”\nhttps://www.bbc.co.uk/news/articles/cm0rexrwjj1vo\n\nSCIENCE — NASA\n“APOD: 2026 September 20 – Analemma over the Callanish Stones”\nhttps://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 20 Sep 2026\n\nSPORT — The Guardian\n“Bournemouth v Liverpool: Premier League – live”\nhttps://www.theguardian.com/football/live/2026/sep/20/bournemouth-v-liverpool-premier-league-live\n\nBUSINESS — BBC News\n“Billionaire Man United owner loses moral high ground after tax exile, Labour chair says”\nhttps://www.bbc.co.uk/news/articles/cm0rexrwjj1vo\n\nSCIENCE — NASA\n“APOD: 2026 September 20 – Analemma over the Callanish Stones”\nhttps://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
