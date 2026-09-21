@@ -1025,9 +1025,11 @@
           "category": "World"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 21 Sep 2026\n\nENVIRONMENT — The Guardian\n“More than 150,000 underwater explosives used to deter seals at Tasmanian salmon farms since 2016”\nhttps://www.theguardian.com/australia-news/2026/sep/22/underwater-explosives-used-to-deter-seals-at-tasmanian-salmon-farms-since-2016\n\nWORLD — BBC News\n“Airlines criticise air traffic control as second glitch causes more disruption in UK”\nhttps://www.bbc.co.uk/news/articles/cqp80p78mxx5o\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 21 Sep 2026\n\nENVIRONMENT — The Guardian\n“More than 150,000 underwater explosives used to deter seals at Tasmanian salmon farms since 2016”\nhttps://www.theguardian.com/australia-news/2026/sep/22/underwater-explosives-used-to-deter-seals-at-tasmanian-salmon-farms-since-2016\n\nWORLD — BBC News\n“Airlines criticise air traffic control as second glitch causes more disruption in UK”\nhttps://www.bbc.co.uk/news/articles/cqp80p78mxx5o\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
