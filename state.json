@@ -1005,6 +1005,29 @@
       "text": "WORLD & HUMAN | News briefing | 20 Sep 2026\n\nWORLD — The Guardian\n“Australia news live: Albanese to put AI concerns to Trump; former police officer Beau Lamarre-Condon’s murder trial to begin”\nhttps://www.theguardian.com/australia-news/live/2026/sep/21/anthony-albanese-new-york-jim-chalmers-intergenerational-report-coalition-one-nation-ntwnfb\n\nBUSINESS — BBC News\n“Ed Davey calls for immediate 10p cut to fuel duty”\nhttps://www.bbc.co.uk/news/articles/cr89j514dly2o\n\nSCIENCE — NASA\n“APOD: 2026 September 20 – Analemma over the Callanish Stones”\nhttps://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
       "http_status": 400,
       "error_message": "Organization Or Events permissions must be used when using organization as author"
+    },
+    {
+      "id": "e563102f862f7c66da48",
+      "created_at": "2026-09-21T15:09:31.214740+00:00",
+      "articles": [
+        {
+          "title": "More than 150,000 underwater explosives used to deter seals at Tasmanian salmon farms since 2016",
+          "url": "https://www.theguardian.com/australia-news/2026/sep/22/underwater-explosives-used-to-deter-seals-at-tasmanian-salmon-farms-since-2016",
+          "published_at": "2026-09-21T15:00:37+00:00",
+          "source": "The Guardian",
+          "category": "Environment"
+        },
+        {
+          "title": "Airlines criticise air traffic control as second glitch causes more disruption in UK",
+          "url": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o",
+          "published_at": "2026-09-21T14:56:16+00:00",
+          "source": "BBC News",
+          "category": "World"
+        }
+      ],
+      "status": "reserved",
+      "organization_id": "143606150",
+      "text": "WORLD & HUMAN | News briefing | 21 Sep 2026\n\nENVIRONMENT — The Guardian\n“More than 150,000 underwater explosives used to deter seals at Tasmanian salmon farms since 2016”\nhttps://www.theguardian.com/australia-news/2026/sep/22/underwater-explosives-used-to-deter-seals-at-tasmanian-salmon-farms-since-2016\n\nWORLD — BBC News\n“Airlines criticise air traffic control as second glitch causes more disruption in UK”\nhttps://www.bbc.co.uk/news/articles/cqp80p78mxx5o\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
     }
   ]
 }
