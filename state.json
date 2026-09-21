@@ -1030,6 +1030,36 @@
       "text": "WORLD & HUMAN | News briefing | 21 Sep 2026\n\nENVIRONMENT — The Guardian\n“More than 150,000 underwater explosives used to deter seals at Tasmanian salmon farms since 2016”\nhttps://www.theguardian.com/australia-news/2026/sep/22/underwater-explosives-used-to-deter-seals-at-tasmanian-salmon-farms-since-2016\n\nWORLD — BBC News\n“Airlines criticise air traffic control as second glitch causes more disruption in UK”\nhttps://www.bbc.co.uk/news/articles/cqp80p78mxx5o\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
       "http_status": 400,
       "error_message": "Organization Or Events permissions must be used when using organization as author"
+    },
+    {
+      "id": "629fa58b3fc8fb0920de",
+      "created_at": "2026-09-21T23:21:40.475970+00:00",
+      "articles": [
+        {
+          "title": "Young people’s Pip claims for ADHD and autism ‘rising fastest in affluent areas’",
+          "url": "https://www.theguardian.com/society/2026/sep/22/england-affluent-areas-young-people-adhd-autism-pip-claims",
+          "published_at": "2026-09-21T23:01:28+00:00",
+          "source": "The Guardian",
+          "category": "World"
+        },
+        {
+          "title": "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
+          "url": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo",
+          "published_at": "2026-09-21T23:01:26+00:00",
+          "source": "BBC News",
+          "category": "Business"
+        },
+        {
+          "title": "Embracing the Equinox",
+          "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/embracing-the-equinox/",
+          "published_at": "2026-09-21T21:55:40+00:00",
+          "source": "NASA",
+          "category": "Science"
+        }
+      ],
+      "status": "reserved",
+      "organization_id": "143606150",
+      "text": "WORLD & HUMAN | News briefing | 21 Sep 2026\n\nWORLD — The Guardian\n“Young people’s Pip claims for ADHD and autism ‘rising fastest in affluent areas’”\nhttps://www.theguardian.com/society/2026/sep/22/england-affluent-areas-young-people-adhd-autism-pip-claims\n\nBUSINESS — BBC News\n“I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance”\nhttps://www.bbc.co.uk/news/articles/cje8y3w2zdpo\n\nSCIENCE — NASA\n“Embracing the Equinox”\nhttps://science.nasa.gov/solar-system/skywatching/night-sky-network/embracing-the-equinox/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
     }
   ]
 }
