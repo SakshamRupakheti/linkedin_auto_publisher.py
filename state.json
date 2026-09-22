@@ -1089,9 +1089,11 @@
           "category": "Science"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 22 Sep 2026\n\nSPORT — The Guardian\n“Rams crush Giants but Jaxson Dart escapes ‘devastating outcome’ after knee injury”\nhttps://www.theguardian.com/sport/2026/sep/21/nfl-giants-rams-jaxson-dart-knee-injury-aaron-donald-return\n\nWORLD — BBC News\n“Sri Lanka court convicts 15 men over deadly Easter Sunday bombings”\nhttps://www.bbc.co.uk/news/articles/cqy7z275yx65o\n\nSCIENCE — NASA\n“An Epic View of the Seasons”\nhttps://science.nasa.gov/earth/earth-observatory/an-epic-view-of-the-seasons/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 22 Sep 2026\n\nSPORT — The Guardian\n“Rams crush Giants but Jaxson Dart escapes ‘devastating outcome’ after knee injury”\nhttps://www.theguardian.com/sport/2026/sep/21/nfl-giants-rams-jaxson-dart-knee-injury-aaron-donald-return\n\nWORLD — BBC News\n“Sri Lanka court convicts 15 men over deadly Easter Sunday bombings”\nhttps://www.bbc.co.uk/news/articles/cqy7z275yx65o\n\nSCIENCE — NASA\n“An Epic View of the Seasons”\nhttps://science.nasa.gov/earth/earth-observatory/an-epic-view-of-the-seasons/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
