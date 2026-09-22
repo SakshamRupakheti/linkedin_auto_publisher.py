@@ -1094,6 +1094,36 @@
       "text": "WORLD & HUMAN | News briefing | 22 Sep 2026\n\nSPORT — The Guardian\n“Rams crush Giants but Jaxson Dart escapes ‘devastating outcome’ after knee injury”\nhttps://www.theguardian.com/sport/2026/sep/21/nfl-giants-rams-jaxson-dart-knee-injury-aaron-donald-return\n\nWORLD — BBC News\n“Sri Lanka court convicts 15 men over deadly Easter Sunday bombings”\nhttps://www.bbc.co.uk/news/articles/cqy7z275yx65o\n\nSCIENCE — NASA\n“An Epic View of the Seasons”\nhttps://science.nasa.gov/earth/earth-observatory/an-epic-view-of-the-seasons/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
       "http_status": 400,
       "error_message": "Organization Or Events permissions must be used when using organization as author"
+    },
+    {
+      "id": "102dd0654c1c45311b6a",
+      "created_at": "2026-09-22T23:00:14.028442+00:00",
+      "articles": [
+        {
+          "title": "Trump defends actions in Iran and Venezuela in UN General Assembly address amid rising tensions with allies – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/sep/22/donald-trump-unga-speech-iran-middle-east-ukraine-latest-news-updates",
+          "published_at": "2026-09-22T22:50:53+00:00",
+          "source": "The Guardian",
+          "category": "World"
+        },
+        {
+          "title": "A new skyline of data centres is rising from the rolling plains of rural China",
+          "url": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro",
+          "published_at": "2026-09-22T22:04:31+00:00",
+          "source": "BBC News",
+          "category": "Technology"
+        },
+        {
+          "title": "Risks of Decompression Sickness and Venous Thromboembolism during Spaceflight and Patent Foramen Ovale Implications",
+          "url": "https://www.nasa.gov/organizations/ochmo/risks-of-decompression-sickness-and-venous-thromboembolism-during-spaceflight-and-patent-foramen-ovale-implications/",
+          "published_at": "2026-09-22T19:19:45+00:00",
+          "source": "NASA",
+          "category": "Science"
+        }
+      ],
+      "status": "reserved",
+      "organization_id": "143606150",
+      "text": "WORLD & HUMAN | News briefing | 22 Sep 2026\n\nWORLD — The Guardian\n“Trump defends actions in Iran and Venezuela in UN General Assembly address amid rising tensions with allies – live”\nhttps://www.theguardian.com/us-news/live/2026/sep/22/donald-trump-unga-speech-iran-middle-east-ukraine-latest-news-updates\n\nTECHNOLOGY — BBC News\n“A new skyline of data centres is rising from the rolling plains of rural China”\nhttps://www.bbc.co.uk/news/articles/cm5ydz4kl65ro\n\nSCIENCE — NASA\n“Risks of Decompression Sickness and Venous Thromboembolism during Spaceflight and Patent Foramen Ovale Implications”\nhttps://www.nasa.gov/organizations/ochmo/risks-of-decompression-sickness-and-venous-thromboembolism-during-spaceflight-and-patent-foramen-ovale-implications/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
     }
   ]
 }
