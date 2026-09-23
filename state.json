@@ -1185,9 +1185,11 @@
           "category": "Science"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 23 Sep 2026\n\nWORLD — The Guardian\n“News live: OECD says Australia will struggle to get inflation below 3%; Victoria to allow dogs in pubs under Labor election promise”\nhttps://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb\n\nBUSINESS — BBC News\n“OpenAI and Anthropic bosses push UN for global terms on AI”\nhttps://www.bbc.co.uk/news/articles/ck87v27vdn1po\n\nSCIENCE — NASA\n“NASA Modernizes Commercial Airline Systems”\nhttps://www.nasa.gov/directorates/armd/aosp/nasa-modernizes-commercial-airline-systems/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 23 Sep 2026\n\nWORLD — The Guardian\n“News live: OECD says Australia will struggle to get inflation below 3%; Victoria to allow dogs in pubs under Labor election promise”\nhttps://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb\n\nBUSINESS — BBC News\n“OpenAI and Anthropic bosses push UN for global terms on AI”\nhttps://www.bbc.co.uk/news/articles/ck87v27vdn1po\n\nSCIENCE — NASA\n“NASA Modernizes Commercial Airline Systems”\nhttps://www.nasa.gov/directorates/armd/aosp/nasa-modernizes-commercial-airline-systems/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
