@@ -1153,9 +1153,11 @@
           "category": "Science"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 23 Sep 2026\n\nSPORT — The Guardian\n“Manchester United report seventh straight annual loss despite record revenue”\nhttps://www.theguardian.com/football/2026/sep/23/manchester-united-seventh-straight-annual-loss-record-revenue-financial-results\n\nWORLD — BBC News\n“Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing”\nhttps://www.bbc.co.uk/news/articles/c6790yrgzq25o\n\nSCIENCE — NASA\n“APOD: 2026 September 23 – A New Lunar Crater: McGetchin”\nhttps://science.nasa.gov/image-article/apod-2026-september-23-the-mcgetchin-crater/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 23 Sep 2026\n\nSPORT — The Guardian\n“Manchester United report seventh straight annual loss despite record revenue”\nhttps://www.theguardian.com/football/2026/sep/23/manchester-united-seventh-straight-annual-loss-record-revenue-financial-results\n\nWORLD — BBC News\n“Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing”\nhttps://www.bbc.co.uk/news/articles/c6790yrgzq25o\n\nSCIENCE — NASA\n“APOD: 2026 September 23 – A New Lunar Crater: McGetchin”\nhttps://science.nasa.gov/image-article/apod-2026-september-23-the-mcgetchin-crater/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
