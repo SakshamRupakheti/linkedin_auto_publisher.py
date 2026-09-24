@@ -1190,6 +1190,36 @@
       "text": "WORLD & HUMAN | News briefing | 23 Sep 2026\n\nWORLD — The Guardian\n“News live: OECD says Australia will struggle to get inflation below 3%; Victoria to allow dogs in pubs under Labor election promise”\nhttps://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb\n\nBUSINESS — BBC News\n“OpenAI and Anthropic bosses push UN for global terms on AI”\nhttps://www.bbc.co.uk/news/articles/ck87v27vdn1po\n\nSCIENCE — NASA\n“NASA Modernizes Commercial Airline Systems”\nhttps://www.nasa.gov/directorates/armd/aosp/nasa-modernizes-commercial-airline-systems/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
       "http_status": 400,
       "error_message": "Organization Or Events permissions must be used when using organization as author"
+    },
+    {
+      "id": "a081b3e07cd4dad17258",
+      "created_at": "2026-09-24T13:36:41.070138+00:00",
+      "articles": [
+        {
+          "title": "England v Sri Lanka: second men’s one-day cricket international – live",
+          "url": "https://www.theguardian.com/sport/live/2026/sep/24/england-v-sri-lanka-second-one-day-cricket-international-live-score-updates",
+          "published_at": "2026-09-24T13:22:14+00:00",
+          "source": "The Guardian",
+          "category": "Sport"
+        },
+        {
+          "title": "Judge temporarily overturns Trump's White House media ban",
+          "url": "https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o",
+          "published_at": "2026-09-24T13:08:29+00:00",
+          "source": "BBC News",
+          "category": "World"
+        },
+        {
+          "title": "APOD: 2026 September 24 – The Ghosts of Five Supernovas",
+          "url": "https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/",
+          "published_at": "2026-09-24T04:05:00+00:00",
+          "source": "NASA",
+          "category": "Science"
+        }
+      ],
+      "status": "reserved",
+      "organization_id": "143606150",
+      "text": "WORLD & HUMAN | News briefing | 24 Sep 2026\n\nSPORT — The Guardian\n“England v Sri Lanka: second men’s one-day cricket international – live”\nhttps://www.theguardian.com/sport/live/2026/sep/24/england-v-sri-lanka-second-one-day-cricket-international-live-score-updates\n\nWORLD — BBC News\n“Judge temporarily overturns Trump's White House media ban”\nhttps://www.bbc.co.uk/news/articles/cqm2mg34x2v7o\n\nSCIENCE — NASA\n“APOD: 2026 September 24 – The Ghosts of Five Supernovas”\nhttps://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
     }
   ]
 }
