@@ -1313,9 +1313,11 @@
           "category": "Science"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 25 Sep 2026\n\nWORLD — The Guardian\n“Two people arrested in New York City for allegedly climbing out of manhole”\nhttps://www.theguardian.com/us-news/2026/sep/25/new-york-city-arrests-mole-people\n\nTECHNOLOGY — BBC News\n“OpenAI investigating 'dozens' of instances of agents acting improperly”\nhttps://www.bbc.co.uk/news/articles/cw62jje658dlo\n\nSCIENCE — NASA\n“NASA, Boeing to Provide Update on Starliner Development”\nhttps://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 25 Sep 2026\n\nWORLD — The Guardian\n“Two people arrested in New York City for allegedly climbing out of manhole”\nhttps://www.theguardian.com/us-news/2026/sep/25/new-york-city-arrests-mole-people\n\nTECHNOLOGY — BBC News\n“OpenAI investigating 'dozens' of instances of agents acting improperly”\nhttps://www.bbc.co.uk/news/articles/cw62jje658dlo\n\nSCIENCE — NASA\n“NASA, Boeing to Provide Update on Starliner Development”\nhttps://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
