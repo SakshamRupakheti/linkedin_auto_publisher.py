@@ -1254,6 +1254,36 @@
       "text": "WORLD & HUMAN | News briefing | 24 Sep 2026\n\nWORLD — The Guardian\n“Australia news live: Paterson says PM’s AI hack timing not a coincidence; police officer killed in Sydney crash”\nhttps://www.theguardian.com/australia-news/live/2026/sep/25/anthony-albanese-open-ai-hack-united-nations-angus-taylor-coalition-ntwnfb\n\nBUSINESS — BBC News\n“X-planes: Are they needed in the new era of drones?”\nhttps://www.bbc.co.uk/news/articles/c9q92x359xdo\n\nSCIENCE — NASA\n“NASA Welcomes Côte d’Ivoire as Newest Artemis Accords Signatory”\nhttps://www.nasa.gov/organizations/oiir/nasa-welcomes-cote-divoire-as-newest-artemis-accords-signatory/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
       "http_status": 400,
       "error_message": "Organization Or Events permissions must be used when using organization as author"
+    },
+    {
+      "id": "b62f537d5f6201d660d8",
+      "created_at": "2026-09-25T13:54:57.080099+00:00",
+      "articles": [
+        {
+          "title": "Kimi Antonelli hits wall as George Russell takes F1 Azerbaijan GP pole",
+          "url": "https://www.theguardian.com/sport/2026/sep/25/kimi-antonelli-hits-wall-as-george-russell-takes-f1-azerbaijan-gp-pole",
+          "published_at": "2026-09-25T13:44:19+00:00",
+          "source": "The Guardian",
+          "category": "Sport"
+        },
+        {
+          "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
+          "url": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no",
+          "published_at": "2026-09-25T13:28:35+00:00",
+          "source": "BBC News",
+          "category": "World"
+        },
+        {
+          "title": "APOD: 2026 September 25 – Globular Star Cluster Omega Centauri",
+          "url": "https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/",
+          "published_at": "2026-09-25T04:05:00+00:00",
+          "source": "NASA",
+          "category": "Science"
+        }
+      ],
+      "status": "reserved",
+      "organization_id": "143606150",
+      "text": "WORLD & HUMAN | News briefing | 25 Sep 2026\n\nSPORT — The Guardian\n“Kimi Antonelli hits wall as George Russell takes F1 Azerbaijan GP pole”\nhttps://www.theguardian.com/sport/2026/sep/25/kimi-antonelli-hits-wall-as-george-russell-takes-f1-azerbaijan-gp-pole\n\nWORLD — BBC News\n“Internet restricted after fighting breaks out in Ethiopia's Tigray region”\nhttps://www.bbc.co.uk/news/articles/cqp8dxxg325no\n\nSCIENCE — NASA\n“APOD: 2026 September 25 – Globular Star Cluster Omega Centauri”\nhttps://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
     }
   ]
 }
