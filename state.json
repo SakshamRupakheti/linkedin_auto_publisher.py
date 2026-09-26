@@ -1345,9 +1345,11 @@
           "category": "Science"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 26 Sep 2026\n\nSPORT — The Guardian\n“Kohli announces next World Cup will be his last; County Championship title race, third day – live”\nhttps://www.theguardian.com/sport/live/2026/sep/26/somerset-v-surrey-warwickshire-v-leics-and-more-county-championship-title-race-third-day-live\n\nWORLD — BBC News\n“Huge crowds greet Pope in Paris ahead of open-air Mass”\nhttps://www.bbc.co.uk/news/articles/cm4gjjwvvlzro\n\nSCIENCE — NASA\n“APOD: 2026 September 26 – Mirrored Meteor and Milky Way”\nhttps://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 26 Sep 2026\n\nSPORT — The Guardian\n“Kohli announces next World Cup will be his last; County Championship title race, third day – live”\nhttps://www.theguardian.com/sport/live/2026/sep/26/somerset-v-surrey-warwickshire-v-leics-and-more-county-championship-title-race-third-day-live\n\nWORLD — BBC News\n“Huge crowds greet Pope in Paris ahead of open-air Mass”\nhttps://www.bbc.co.uk/news/articles/cm4gjjwvvlzro\n\nSCIENCE — NASA\n“APOD: 2026 September 26 – Mirrored Meteor and Milky Way”\nhttps://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
