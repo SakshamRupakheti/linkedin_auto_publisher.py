@@ -1446,6 +1446,29 @@
       "text": "WORLD & HUMAN | News briefing | 27 Sep 2026\n\nBUSINESS — BBC News\n“My hometown shows that high streets have to change or die”\nhttps://www.bbc.co.uk/news/articles/crd689de186jo\n\nWORLD — The Guardian\n“Australia news live: Gallagher says final budget outcome will shave $6bn off deficit; RBA interest rate hike looms”\nhttps://www.theguardian.com/australia-news/live/2026/sep/28/labor-anthony-albanese-openai-ai-hacks-coalition-one-nation-medicare-budget-ntwnfb\n\nSCIENCE — NASA\n“APOD: 2026 September 27 – Andromeda Before and After Photoshop”\nhttps://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
       "http_status": 400,
       "error_message": "Organization Or Events permissions must be used when using organization as author"
+    },
+    {
+      "id": "65e1c882c99e085ad9d4",
+      "created_at": "2026-09-28T16:48:40.761931+00:00",
+      "articles": [
+        {
+          "title": "RAF Fairford live updates: Five men arrested near base to be released on bail, police say",
+          "url": "https://www.theguardian.com/uk-news/live/2026/sep/28/raf-fairford-counter-terror-police-suspected-bomb-plot-iran-link-investigated-latest-news-updates",
+          "published_at": "2026-09-28T16:45:16+00:00",
+          "source": "The Guardian",
+          "category": "World"
+        },
+        {
+          "title": "Watch: Starship splashdown ends in fireball",
+          "url": "https://www.bbc.co.uk/news/videos/c6j9xkdvrd94o",
+          "published_at": "2026-09-28T16:28:10+00:00",
+          "source": "BBC News",
+          "category": "Science"
+        }
+      ],
+      "status": "reserved",
+      "organization_id": "143606150",
+      "text": "WORLD & HUMAN | News briefing | 28 Sep 2026\n\nWORLD — The Guardian\n“RAF Fairford live updates: Five men arrested near base to be released on bail, police say”\nhttps://www.theguardian.com/uk-news/live/2026/sep/28/raf-fairford-counter-terror-police-suspected-bomb-plot-iran-link-investigated-latest-news-updates\n\nSCIENCE — BBC News\n“Watch: Starship splashdown ends in fireball”\nhttps://www.bbc.co.uk/news/videos/c6j9xkdvrd94o\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
     }
   ]
 }
