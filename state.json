@@ -1619,9 +1619,11 @@
           "category": "Environment"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 30 Sep 2026\n\nWORLD — BBC News\n“US Supreme Court allows execution of Christa Pike to go ahead”\nhttps://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o\n\nSCIENCE — NASA\n“Curiosity Blog, Sols 5016–5021: Fantastic Minerals and How To Detect Them”\nhttps://science.nasa.gov/blog/curiosity-blog-sols-5016-5021-fantastic-minerals-and-how-to-detect-them/\n\nENVIRONMENT — The Guardian\n“Floating scarecrows: how Cornish fishers are stopping seabirds drowning in their nets”\nhttps://www.theguardian.com/environment/2026/oct/01/scarecrows-cornish-fishers-stop-seabirds-drowning-in-nets\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 30 Sep 2026\n\nWORLD — BBC News\n“US Supreme Court allows execution of Christa Pike to go ahead”\nhttps://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o\n\nSCIENCE — NASA\n“Curiosity Blog, Sols 5016–5021: Fantastic Minerals and How To Detect Them”\nhttps://science.nasa.gov/blog/curiosity-blog-sols-5016-5021-fantastic-minerals-and-how-to-detect-them/\n\nENVIRONMENT — The Guardian\n“Floating scarecrows: how Cornish fishers are stopping seabirds drowning in their nets”\nhttps://www.theguardian.com/environment/2026/oct/01/scarecrows-cornish-fishers-stop-seabirds-drowning-in-nets\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
