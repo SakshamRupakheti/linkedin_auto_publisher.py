@@ -1644,9 +1644,11 @@
           "category": "Business"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 01 Oct 2026\n\nWORLD — The Guardian\n“French high school protests escalate with violence reported – Europe live”\nhttps://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato\n\nBUSINESS — BBC News\n“Is it time to ditch premium bonds?”\nhttps://www.bbc.co.uk/news/videos/cmy5z5qx19pwo\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 01 Oct 2026\n\nWORLD — The Guardian\n“French high school protests escalate with violence reported – Europe live”\nhttps://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato\n\nBUSINESS — BBC News\n“Is it time to ditch premium bonds?”\nhttps://www.bbc.co.uk/news/videos/cmy5z5qx19pwo\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
