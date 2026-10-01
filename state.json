@@ -1649,6 +1649,29 @@
       "text": "WORLD & HUMAN | News briefing | 01 Oct 2026\n\nWORLD — The Guardian\n“French high school protests escalate with violence reported – Europe live”\nhttps://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato\n\nBUSINESS — BBC News\n“Is it time to ditch premium bonds?”\nhttps://www.bbc.co.uk/news/videos/cmy5z5qx19pwo\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
       "http_status": 400,
       "error_message": "Organization Or Events permissions must be used when using organization as author"
+    },
+    {
+      "id": "dfe8e8586482e73d8680",
+      "created_at": "2026-10-01T23:56:40.271475+00:00",
+      "articles": [
+        {
+          "title": "Australia news live: Labor to make it harder for international students to change courses; Inman-Grant says time for new eSafety leadership",
+          "url": "https://www.theguardian.com/australia-news/live/2026/oct/02/labor-anthony-albanese-online-gaming-esafety-coalition-angus-taylor-greens-david-shoebridge-ntwnfb",
+          "published_at": "2026-10-01T23:53:06+00:00",
+          "source": "The Guardian",
+          "category": "World"
+        },
+        {
+          "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
+          "url": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo",
+          "published_at": "2026-10-01T23:45:06+00:00",
+          "source": "BBC News",
+          "category": "Technology"
+        }
+      ],
+      "status": "reserved",
+      "organization_id": "143606150",
+      "text": "WORLD & HUMAN | News briefing | 01 Oct 2026\n\nWORLD — The Guardian\n“Australia news live: Labor to make it harder for international students to change courses; Inman-Grant says time for new eSafety leadership”\nhttps://www.theguardian.com/australia-news/live/2026/oct/02/labor-anthony-albanese-online-gaming-esafety-coalition-angus-taylor-greens-david-shoebridge-ntwnfb\n\nTECHNOLOGY — BBC News\n“Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery”\nhttps://www.bbc.co.uk/news/articles/c6eq84eygz0qo\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
     }
   ]
 }
