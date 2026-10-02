@@ -1719,9 +1719,11 @@
           "category": "Science"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 02 Oct 2026\n\nWORLD — The Guardian\n“Trump threatens to double tariffs on South Korea if they do not pay for Alaska natural gas pipeline – US politics live”\nhttps://www.theguardian.com/us-news/live/2026/oct/02/cornell-university-leticia-james-christa-pike-death-penalty-donald-trump-us-jobs-latest-news-updates\n\nSCIENCE — BBC News\n“Could El Niño mean there are no Atlantic hurricanes this year?”\nhttps://www.bbc.co.uk/weather/articles/cwgkvyyg8115o\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 02 Oct 2026\n\nWORLD — The Guardian\n“Trump threatens to double tariffs on South Korea if they do not pay for Alaska natural gas pipeline – US politics live”\nhttps://www.theguardian.com/us-news/live/2026/oct/02/cornell-university-leticia-james-christa-pike-death-penalty-donald-trump-us-jobs-latest-news-updates\n\nSCIENCE — BBC News\n“Could El Niño mean there are no Atlantic hurricanes this year?”\nhttps://www.bbc.co.uk/weather/articles/cwgkvyyg8115o\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
