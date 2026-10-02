@@ -1674,6 +1674,29 @@
       "text": "WORLD & HUMAN | News briefing | 01 Oct 2026\n\nWORLD — The Guardian\n“Australia news live: Labor to make it harder for international students to change courses; Inman-Grant says time for new eSafety leadership”\nhttps://www.theguardian.com/australia-news/live/2026/oct/02/labor-anthony-albanese-online-gaming-esafety-coalition-angus-taylor-greens-david-shoebridge-ntwnfb\n\nTECHNOLOGY — BBC News\n“Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery”\nhttps://www.bbc.co.uk/news/articles/c6eq84eygz0qo\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
       "http_status": 400,
       "error_message": "Organization Or Events permissions must be used when using organization as author"
+    },
+    {
+      "id": "03f8a550a9320860c7df",
+      "created_at": "2026-10-02T14:47:02.498432+00:00",
+      "articles": [
+        {
+          "title": "G7 to release 100m barrels from reserves to combat surging diesel prices – Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/oct/02/france-schools-protests-violence-ukraine-kallas-rome-pope-latest-news-updates",
+          "published_at": "2026-10-02T14:40:08+00:00",
+          "source": "The Guardian",
+          "category": "World"
+        },
+        {
+          "title": "US jobs market sees sharp slowdown ahead of midterm elections",
+          "url": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo",
+          "published_at": "2026-10-02T14:30:48+00:00",
+          "source": "BBC News",
+          "category": "Business"
+        }
+      ],
+      "status": "reserved",
+      "organization_id": "143606150",
+      "text": "WORLD & HUMAN | News briefing | 02 Oct 2026\n\nWORLD — The Guardian\n“G7 to release 100m barrels from reserves to combat surging diesel prices – Europe live”\nhttps://www.theguardian.com/world/live/2026/oct/02/france-schools-protests-violence-ukraine-kallas-rome-pope-latest-news-updates\n\nBUSINESS — BBC News\n“US jobs market sees sharp slowdown ahead of midterm elections”\nhttps://www.bbc.co.uk/news/articles/cm2d6gg0642yo\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
     }
   ]
 }
