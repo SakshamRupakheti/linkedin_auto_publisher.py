@@ -1694,9 +1694,11 @@
           "category": "Business"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 02 Oct 2026\n\nWORLD — The Guardian\n“G7 to release 100m barrels from reserves to combat surging diesel prices – Europe live”\nhttps://www.theguardian.com/world/live/2026/oct/02/france-schools-protests-violence-ukraine-kallas-rome-pope-latest-news-updates\n\nBUSINESS — BBC News\n“US jobs market sees sharp slowdown ahead of midterm elections”\nhttps://www.bbc.co.uk/news/articles/cm2d6gg0642yo\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 02 Oct 2026\n\nWORLD — The Guardian\n“G7 to release 100m barrels from reserves to combat surging diesel prices – Europe live”\nhttps://www.theguardian.com/world/live/2026/oct/02/france-schools-protests-violence-ukraine-kallas-rome-pope-latest-news-updates\n\nBUSINESS — BBC News\n“US jobs market sees sharp slowdown ahead of midterm elections”\nhttps://www.bbc.co.uk/news/articles/cm2d6gg0642yo\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
