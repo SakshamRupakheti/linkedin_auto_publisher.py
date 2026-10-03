@@ -1749,6 +1749,29 @@
       "text": "WORLD & HUMAN | News briefing | 03 Oct 2026\n\nWORLD — The Guardian\n“Badenoch returns to Conservative conference much stronger than a year ago”\nhttps://www.theguardian.com/politics/2026/oct/03/badenoch-returns-to-conservative-conference-much-stronger-than-a-year-ago\n\nSCIENCE — BBC News\n“Woodlands project records more trees than expected”\nhttps://www.bbc.co.uk/news/articles/cx1l6len3gj3o\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
       "http_status": 400,
       "error_message": "Organization Or Events permissions must be used when using organization as author"
+    },
+    {
+      "id": "318593682ecda91c5201",
+      "created_at": "2026-10-03T23:08:40.724893+00:00",
+      "articles": [
+        {
+          "title": "Five-year-old girl in a coma and P-plater charged after car hits crowd of NRL fans in Newcastle",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/03/several-people-injured-after-vehicle-hits-crowd-at-knights-grand-final-farewell-in-newcastle",
+          "published_at": "2026-10-03T22:32:34+00:00",
+          "source": "The Guardian",
+          "category": "World"
+        },
+        {
+          "title": "Astronomers get permission for mini-observatory",
+          "url": "https://www.bbc.co.uk/news/articles/ck5ynpzz4q28o",
+          "published_at": "2026-10-03T19:05:35+00:00",
+          "source": "BBC News",
+          "category": "Science"
+        }
+      ],
+      "status": "reserved",
+      "organization_id": "143606150",
+      "text": "WORLD & HUMAN | News briefing | 03 Oct 2026\n\nWORLD — The Guardian\n“Five-year-old girl in a coma and P-plater charged after car hits crowd of NRL fans in Newcastle”\nhttps://www.theguardian.com/australia-news/2026/oct/03/several-people-injured-after-vehicle-hits-crowd-at-knights-grand-final-farewell-in-newcastle\n\nSCIENCE — BBC News\n“Astronomers get permission for mini-observatory”\nhttps://www.bbc.co.uk/news/articles/ck5ynpzz4q28o\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
     }
   ]
 }
