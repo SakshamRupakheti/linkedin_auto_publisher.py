@@ -1744,9 +1744,11 @@
           "category": "Science"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 03 Oct 2026\n\nWORLD — The Guardian\n“Badenoch returns to Conservative conference much stronger than a year ago”\nhttps://www.theguardian.com/politics/2026/oct/03/badenoch-returns-to-conservative-conference-much-stronger-than-a-year-ago\n\nSCIENCE — BBC News\n“Woodlands project records more trees than expected”\nhttps://www.bbc.co.uk/news/articles/cx1l6len3gj3o\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 03 Oct 2026\n\nWORLD — The Guardian\n“Badenoch returns to Conservative conference much stronger than a year ago”\nhttps://www.theguardian.com/politics/2026/oct/03/badenoch-returns-to-conservative-conference-much-stronger-than-a-year-ago\n\nSCIENCE — BBC News\n“Woodlands project records more trees than expected”\nhttps://www.bbc.co.uk/news/articles/cx1l6len3gj3o\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
