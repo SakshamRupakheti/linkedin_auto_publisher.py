@@ -1769,9 +1769,11 @@
           "category": "Science"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 03 Oct 2026\n\nWORLD — The Guardian\n“Five-year-old girl in a coma and P-plater charged after car hits crowd of NRL fans in Newcastle”\nhttps://www.theguardian.com/australia-news/2026/oct/03/several-people-injured-after-vehicle-hits-crowd-at-knights-grand-final-farewell-in-newcastle\n\nSCIENCE — BBC News\n“Astronomers get permission for mini-observatory”\nhttps://www.bbc.co.uk/news/articles/ck5ynpzz4q28o\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 03 Oct 2026\n\nWORLD — The Guardian\n“Five-year-old girl in a coma and P-plater charged after car hits crowd of NRL fans in Newcastle”\nhttps://www.theguardian.com/australia-news/2026/oct/03/several-people-injured-after-vehicle-hits-crowd-at-knights-grand-final-farewell-in-newcastle\n\nSCIENCE — BBC News\n“Astronomers get permission for mini-observatory”\nhttps://www.bbc.co.uk/news/articles/ck5ynpzz4q28o\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
