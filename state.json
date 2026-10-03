@@ -1724,6 +1724,29 @@
       "text": "WORLD & HUMAN | News briefing | 02 Oct 2026\n\nWORLD — The Guardian\n“Trump threatens to double tariffs on South Korea if they do not pay for Alaska natural gas pipeline – US politics live”\nhttps://www.theguardian.com/us-news/live/2026/oct/02/cornell-university-leticia-james-christa-pike-death-penalty-donald-trump-us-jobs-latest-news-updates\n\nSCIENCE — BBC News\n“Could El Niño mean there are no Atlantic hurricanes this year?”\nhttps://www.bbc.co.uk/weather/articles/cwgkvyyg8115o\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
       "http_status": 400,
       "error_message": "Organization Or Events permissions must be used when using organization as author"
+    },
+    {
+      "id": "cb4903759b566ebc079b",
+      "created_at": "2026-10-03T13:28:51.379310+00:00",
+      "articles": [
+        {
+          "title": "Badenoch returns to Conservative conference much stronger than a year ago",
+          "url": "https://www.theguardian.com/politics/2026/oct/03/badenoch-returns-to-conservative-conference-much-stronger-than-a-year-ago",
+          "published_at": "2026-10-03T13:00:01+00:00",
+          "source": "The Guardian",
+          "category": "World"
+        },
+        {
+          "title": "Woodlands project records more trees than expected",
+          "url": "https://www.bbc.co.uk/news/articles/cx1l6len3gj3o",
+          "published_at": "2026-10-03T12:47:08+00:00",
+          "source": "BBC News",
+          "category": "Science"
+        }
+      ],
+      "status": "reserved",
+      "organization_id": "143606150",
+      "text": "WORLD & HUMAN | News briefing | 03 Oct 2026\n\nWORLD — The Guardian\n“Badenoch returns to Conservative conference much stronger than a year ago”\nhttps://www.theguardian.com/politics/2026/oct/03/badenoch-returns-to-conservative-conference-much-stronger-than-a-year-ago\n\nSCIENCE — BBC News\n“Woodlands project records more trees than expected”\nhttps://www.bbc.co.uk/news/articles/cx1l6len3gj3o\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
     }
   ]
 }
