@@ -1806,6 +1806,36 @@
       "text": "WORLD & HUMAN | News briefing | 04 Oct 2026\n\nSPORT — The Guardian\n“Manchester City v Arsenal: Women’s Super League – live”\nhttps://www.theguardian.com/football/live/2026/oct/04/manchester-city-v-arsenal-womens-super-league-live\n\nCULTURE — BBC News\n“British Museum announces changes to ease Bayeux Tapestry queues”\nhttps://www.bbc.co.uk/news/articles/cwvgrle6dx2lo\n\nSCIENCE — NASA\n“APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey”\nhttps://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
       "http_status": 400,
       "error_message": "Organization Or Events permissions must be used when using organization as author"
+    },
+    {
+      "id": "6eaa0f4f6bccd466a4a9",
+      "created_at": "2026-10-04T23:16:41.056793+00:00",
+      "articles": [
+        {
+          "title": "Chiefs v Raiders, Broncos v 49ers and more: NFL – live",
+          "url": "https://www.theguardian.com/sport/live/2026/oct/04/raiders-v-chiefs-broncos-v-49ers-and-more-nfl-live",
+          "published_at": "2026-10-04T23:13:53+00:00",
+          "source": "The Guardian",
+          "category": "Sport"
+        },
+        {
+          "title": "Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek",
+          "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5022-5028-cashing-in-at-cache-creek/",
+          "published_at": "2026-10-04T21:13:07+00:00",
+          "source": "NASA",
+          "category": "Science"
+        },
+        {
+          "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
+          "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no",
+          "published_at": "2026-10-04T21:11:49+00:00",
+          "source": "BBC News",
+          "category": "World"
+        }
+      ],
+      "status": "reserved",
+      "organization_id": "143606150",
+      "text": "WORLD & HUMAN | News briefing | 04 Oct 2026\n\nSPORT — The Guardian\n“Chiefs v Raiders, Broncos v 49ers and more: NFL – live”\nhttps://www.theguardian.com/sport/live/2026/oct/04/raiders-v-chiefs-broncos-v-49ers-and-more-nfl-live\n\nSCIENCE — NASA\n“Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek”\nhttps://science.nasa.gov/blog/curiosity-blog-sols-5022-5028-cashing-in-at-cache-creek/\n\nWORLD — BBC News\n“Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck”\nhttps://www.bbc.co.uk/news/articles/ck1l34ed592no\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
     }
   ]
 }
