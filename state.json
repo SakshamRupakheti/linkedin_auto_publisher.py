@@ -1913,6 +1913,29 @@
       "text": "WORLD & HUMAN | News briefing | 06 Oct 2026\n\nWORLD — BBC News\n“Watch: At the scene of student protests in Lille”\nhttps://www.bbc.co.uk/news/videos/cwzd650e2jqdo\n\nBUSINESS — The Guardian\n“Paramount completes $111bn acquisition of Warner Bros to form new media empire Skydance”\nhttps://www.theguardian.com/business/2026/oct/06/paramount-warner-bros-skydance-merger\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
       "http_status": 400,
       "error_message": "Organization Or Events permissions must be used when using organization as author"
+    },
+    {
+      "id": "e53d58fc53cccab7455a",
+      "created_at": "2026-10-06T23:52:26.410522+00:00",
+      "articles": [
+        {
+          "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+          "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko",
+          "published_at": "2026-10-06T23:49:29+00:00",
+          "source": "BBC News",
+          "category": "World"
+        },
+        {
+          "title": "Lionel Messi farewell match live – updates and analysis from Argentina v Benin",
+          "url": "https://www.theguardian.com/football/live/2026/oct/06/lionel-messi-farewell-match-live-updates-analysis-argentina-benin",
+          "published_at": "2026-10-06T23:44:37+00:00",
+          "source": "The Guardian",
+          "category": "Sport"
+        }
+      ],
+      "status": "reserved",
+      "organization_id": "143606150",
+      "text": "WORLD & HUMAN | News briefing | 06 Oct 2026\n\nWORLD — BBC News\n“US death row inmate Christa Pike awake and speaking after failed execution, lawyers say”\nhttps://www.bbc.co.uk/news/articles/c8kgezxn54qko\n\nSPORT — The Guardian\n“Lionel Messi farewell match live – updates and analysis from Argentina v Benin”\nhttps://www.theguardian.com/football/live/2026/oct/06/lionel-messi-farewell-match-live-updates-analysis-argentina-benin\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
     }
   ]
 }
