@@ -1883,9 +1883,11 @@
           "category": "Sport"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 06 Oct 2026\n\nWORLD — BBC News\n“Yemeni military says it has 'secured' Red Sea waterway”\nhttps://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo\n\nSPORT — The Guardian\n“Mary Fowler ruled out of Matildas friendlies due to ‘personal circumstances’”\nhttps://www.theguardian.com/football/2026/oct/06/mary-fowler-personal-circumstances-ruled-out-matildas-friendlies\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 06 Oct 2026\n\nWORLD — BBC News\n“Yemeni military says it has 'secured' Red Sea waterway”\nhttps://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo\n\nSPORT — The Guardian\n“Mary Fowler ruled out of Matildas friendlies due to ‘personal circumstances’”\nhttps://www.theguardian.com/football/2026/oct/06/mary-fowler-personal-circumstances-ruled-out-matildas-friendlies\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
