@@ -1933,9 +1933,11 @@
           "category": "Sport"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 06 Oct 2026\n\nWORLD — BBC News\n“US death row inmate Christa Pike awake and speaking after failed execution, lawyers say”\nhttps://www.bbc.co.uk/news/articles/c8kgezxn54qko\n\nSPORT — The Guardian\n“Lionel Messi farewell match live – updates and analysis from Argentina v Benin”\nhttps://www.theguardian.com/football/live/2026/oct/06/lionel-messi-farewell-match-live-updates-analysis-argentina-benin\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 06 Oct 2026\n\nWORLD — BBC News\n“US death row inmate Christa Pike awake and speaking after failed execution, lawyers say”\nhttps://www.bbc.co.uk/news/articles/c8kgezxn54qko\n\nSPORT — The Guardian\n“Lionel Messi farewell match live – updates and analysis from Argentina v Benin”\nhttps://www.theguardian.com/football/live/2026/oct/06/lionel-messi-farewell-match-live-updates-analysis-argentina-benin\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
