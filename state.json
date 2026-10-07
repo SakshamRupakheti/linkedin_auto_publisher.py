@@ -1958,9 +1958,11 @@
           "category": "Business"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 07 Oct 2026\n\nWORLD — The Guardian\n“Trump-backed Ken Paxton reportedly blames Iran war and high gas prices for midterms struggles as president heads to Texas – live”\nhttps://www.theguardian.com/us-news/live/2026/oct/07/donald-trump-gavin-newsom-california-la-san-diego-iran-republicans-democrats-us-politics-latest-news-updates\n\nBUSINESS — BBC News\n“Boots sold in £7bn deal to Canadian billionaire family”\nhttps://www.bbc.co.uk/news/articles/cwly0jyk2vl5o\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 07 Oct 2026\n\nWORLD — The Guardian\n“Trump-backed Ken Paxton reportedly blames Iran war and high gas prices for midterms struggles as president heads to Texas – live”\nhttps://www.theguardian.com/us-news/live/2026/oct/07/donald-trump-gavin-newsom-california-la-san-diego-iran-republicans-democrats-us-politics-latest-news-updates\n\nBUSINESS — BBC News\n“Boots sold in £7bn deal to Canadian billionaire family”\nhttps://www.bbc.co.uk/news/articles/cwly0jyk2vl5o\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
