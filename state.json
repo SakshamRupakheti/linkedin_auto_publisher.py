@@ -2022,9 +2022,11 @@
           "category": "Business"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 08 Oct 2026\n\nSPORT — The Guardian\n“Football Q&A: ask Ed Aarons your questions as the Premier League returns – live”\nhttps://www.theguardian.com/sport/live/2026/oct/08/football-qa-ask-ed-aarons-your-questions-as-the-premier-league-returns\n\nSCIENCE — NASA\n“NASA Advances LISA Mission Contributions With New Test Telescope”\nhttps://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/\n\nBUSINESS — BBC News\n“Plans to shut Marston's Brewery in Burton revealed”\nhttps://www.bbc.co.uk/news/articles/ck8dzq095lj3o\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 08 Oct 2026\n\nSPORT — The Guardian\n“Football Q&A: ask Ed Aarons your questions as the Premier League returns – live”\nhttps://www.theguardian.com/sport/live/2026/oct/08/football-qa-ask-ed-aarons-your-questions-as-the-premier-league-returns\n\nSCIENCE — NASA\n“NASA Advances LISA Mission Contributions With New Test Telescope”\nhttps://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/\n\nBUSINESS — BBC News\n“Plans to shut Marston's Brewery in Burton revealed”\nhttps://www.bbc.co.uk/news/articles/ck8dzq095lj3o\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
