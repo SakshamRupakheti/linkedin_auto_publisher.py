@@ -2079,9 +2079,11 @@
           "category": "World"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 09 Oct 2026\n\nSPORT — The Guardian\n“Greece v England: Women’s World Cup playoff semi-final, first leg – live”\nhttps://www.theguardian.com/football/live/2026/oct/09/greece-v-england-womens-world-cup-playoff-semi-final-first-leg-live\n\nHEALTH — BBC News\n“Yes, hang-xiety is a real thing”\nhttps://www.bbc.co.uk/news/videos/ck98zyyer83mo\n\nWORLD — UN News\n“Amid heartache of Nepal flooding disaster, fear remains”\nhttps://news.un.org/feed/view/en/story/2026/10/1168561\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 09 Oct 2026\n\nSPORT — The Guardian\n“Greece v England: Women’s World Cup playoff semi-final, first leg – live”\nhttps://www.theguardian.com/football/live/2026/oct/09/greece-v-england-womens-world-cup-playoff-semi-final-first-leg-live\n\nHEALTH — BBC News\n“Yes, hang-xiety is a real thing”\nhttps://www.bbc.co.uk/news/videos/ck98zyyer83mo\n\nWORLD — UN News\n“Amid heartache of Nepal flooding disaster, fear remains”\nhttps://news.un.org/feed/view/en/story/2026/10/1168561\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
