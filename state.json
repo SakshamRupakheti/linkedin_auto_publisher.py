@@ -2175,9 +2175,11 @@
           "category": "Science"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 10 Oct 2026\n\nWORLD — BBC News\n“Four dead and thousands without power after Hurricane Isaias lashes US”\nhttps://www.bbc.co.uk/news/articles/cmje5x80yg70o\n\nENVIRONMENT — The Guardian\n“Blooming beautiful! The Tesselaar tulip festival – in pictures”\nhttps://www.theguardian.com/environment/gallery/2026/oct/11/tesselaar-tulip-festival-silvan-victoria-in-pictures\n\nSCIENCE — NASA\n“NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium”\nhttps://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 10 Oct 2026\n\nWORLD — BBC News\n“Four dead and thousands without power after Hurricane Isaias lashes US”\nhttps://www.bbc.co.uk/news/articles/cmje5x80yg70o\n\nENVIRONMENT — The Guardian\n“Blooming beautiful! The Tesselaar tulip festival – in pictures”\nhttps://www.theguardian.com/environment/gallery/2026/oct/11/tesselaar-tulip-festival-silvan-victoria-in-pictures\n\nSCIENCE — NASA\n“NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium”\nhttps://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
