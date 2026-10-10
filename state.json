@@ -2116,6 +2116,36 @@
       "text": "WORLD & HUMAN | News briefing | 10 Oct 2026\n\nWORLD — The Guardian\n“Zelenskyy furious as Trump announces deal to buy Russian diesel”\nhttps://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine\n\nBUSINESS — BBC News\n“Boots has a new owner: Three ways it could affect you”\nhttps://www.bbc.co.uk/news/articles/c63djxry8124o\n\nSCIENCE — NASA\n“NASA Seeks US Industry Plans for Commercial Space Stations”\nhttps://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
       "http_status": 400,
       "error_message": "Organization Or Events permissions must be used when using organization as author"
+    },
+    {
+      "id": "36503302b097cc5247ae",
+      "created_at": "2026-10-10T14:30:39.826351+00:00",
+      "articles": [
+        {
+          "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+          "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno",
+          "published_at": "2026-10-10T14:24:14+00:00",
+          "source": "BBC News",
+          "category": "World"
+        },
+        {
+          "title": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
+          "url": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/",
+          "published_at": "2026-10-10T14:18:59+00:00",
+          "source": "NASA",
+          "category": "Science"
+        },
+        {
+          "title": "Chelsea v Bournemouth, Sunderland v Brighton, and more: football – live",
+          "url": "https://www.theguardian.com/football/live/2026/oct/10/chelsea-v-bournemouth-sunderland-v-brighton-and-more-football-live",
+          "published_at": "2026-10-10T14:18:32+00:00",
+          "source": "The Guardian",
+          "category": "Sport"
+        }
+      ],
+      "status": "reserved",
+      "organization_id": "143606150",
+      "text": "WORLD & HUMAN | News briefing | 10 Oct 2026\n\nWORLD — BBC News\n“Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin”\nhttps://www.bbc.co.uk/news/articles/cm1dwgr666wno\n\nSCIENCE — NASA\n“NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium”\nhttps://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/\n\nSPORT — The Guardian\n“Chelsea v Bournemouth, Sunderland v Brighton, and more: football – live”\nhttps://www.theguardian.com/football/live/2026/oct/10/chelsea-v-bournemouth-sunderland-v-brighton-and-more-football-live\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
     }
   ]
 }
