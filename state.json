@@ -2084,6 +2084,36 @@
       "text": "WORLD & HUMAN | News briefing | 09 Oct 2026\n\nSPORT — The Guardian\n“Greece v England: Women’s World Cup playoff semi-final, first leg – live”\nhttps://www.theguardian.com/football/live/2026/oct/09/greece-v-england-womens-world-cup-playoff-semi-final-first-leg-live\n\nHEALTH — BBC News\n“Yes, hang-xiety is a real thing”\nhttps://www.bbc.co.uk/news/videos/ck98zyyer83mo\n\nWORLD — UN News\n“Amid heartache of Nepal flooding disaster, fear remains”\nhttps://news.un.org/feed/view/en/story/2026/10/1168561\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
       "http_status": 400,
       "error_message": "Organization Or Events permissions must be used when using organization as author"
+    },
+    {
+      "id": "9bb3116bbdb2887884ae",
+      "created_at": "2026-10-10T00:04:52.342085+00:00",
+      "articles": [
+        {
+          "title": "Zelenskyy furious as Trump announces deal to buy Russian diesel",
+          "url": "https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine",
+          "published_at": "2026-10-09T23:39:31+00:00",
+          "source": "The Guardian",
+          "category": "World"
+        },
+        {
+          "title": "Boots has a new owner: Three ways it could affect you",
+          "url": "https://www.bbc.co.uk/news/articles/c63djxry8124o",
+          "published_at": "2026-10-09T23:01:14+00:00",
+          "source": "BBC News",
+          "category": "Business"
+        },
+        {
+          "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
+          "url": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/",
+          "published_at": "2026-10-09T18:11:44+00:00",
+          "source": "NASA",
+          "category": "Science"
+        }
+      ],
+      "status": "reserved",
+      "organization_id": "143606150",
+      "text": "WORLD & HUMAN | News briefing | 10 Oct 2026\n\nWORLD — The Guardian\n“Zelenskyy furious as Trump announces deal to buy Russian diesel”\nhttps://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine\n\nBUSINESS — BBC News\n“Boots has a new owner: Three ways it could affect you”\nhttps://www.bbc.co.uk/news/articles/c63djxry8124o\n\nSCIENCE — NASA\n“NASA Seeks US Industry Plans for Commercial Space Stations”\nhttps://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
     }
   ]
 }
