@@ -2111,9 +2111,11 @@
           "category": "Science"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 10 Oct 2026\n\nWORLD — The Guardian\n“Zelenskyy furious as Trump announces deal to buy Russian diesel”\nhttps://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine\n\nBUSINESS — BBC News\n“Boots has a new owner: Three ways it could affect you”\nhttps://www.bbc.co.uk/news/articles/c63djxry8124o\n\nSCIENCE — NASA\n“NASA Seeks US Industry Plans for Commercial Space Stations”\nhttps://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 10 Oct 2026\n\nWORLD — The Guardian\n“Zelenskyy furious as Trump announces deal to buy Russian diesel”\nhttps://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine\n\nBUSINESS — BBC News\n“Boots has a new owner: Three ways it could affect you”\nhttps://www.bbc.co.uk/news/articles/c63djxry8124o\n\nSCIENCE — NASA\n“NASA Seeks US Industry Plans for Commercial Space Stations”\nhttps://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
