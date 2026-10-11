@@ -2232,9 +2232,11 @@
           "category": "Science"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 11 Oct 2026\n\nWORLD — The Guardian\n“Australian politics live: Ryan ‘not bothered’ by possible Frydenberg return; Lambie accuses Labor of ‘financial coercion’ over FoI”\nhttps://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb\n\nBUSINESS — BBC News\n“Roofing scammers con homeowners out of thousands of pounds”\nhttps://www.bbc.co.uk/news/articles/c6x29kydnzv0o\n\nSCIENCE — NASA\n“APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos”\nhttps://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 11 Oct 2026\n\nWORLD — The Guardian\n“Australian politics live: Ryan ‘not bothered’ by possible Frydenberg return; Lambie accuses Labor of ‘financial coercion’ over FoI”\nhttps://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb\n\nBUSINESS — BBC News\n“Roofing scammers con homeowners out of thousands of pounds”\nhttps://www.bbc.co.uk/news/articles/c6x29kydnzv0o\n\nSCIENCE — NASA\n“APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos”\nhttps://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
