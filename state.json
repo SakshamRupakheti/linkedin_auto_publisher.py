@@ -2200,9 +2200,11 @@
           "category": "Science"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 11 Oct 2026\n\nSPORT — The Guardian\n“Crystal Palace v Nottingham Forest, Hull v Everton, Southampton 1-0 Portsmouth: football – live”\nhttps://www.theguardian.com/football/live/2026/oct/11/crystal-palace-v-nottingham-forest-hull-v-everton-and-more-football-live\n\nSCIENCE — BBC News\n“Owners fear 'healthy' dog died due to orange substance exposure on contaminated land”\nhttps://www.bbc.co.uk/news/articles/cqx2z2xx0k2lo\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 11 Oct 2026\n\nSPORT — The Guardian\n“Crystal Palace v Nottingham Forest, Hull v Everton, Southampton 1-0 Portsmouth: football – live”\nhttps://www.theguardian.com/football/live/2026/oct/11/crystal-palace-v-nottingham-forest-hull-v-everton-and-more-football-live\n\nSCIENCE — BBC News\n“Owners fear 'healthy' dog died due to orange substance exposure on contaminated land”\nhttps://www.bbc.co.uk/news/articles/cqx2z2xx0k2lo\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
