@@ -2264,9 +2264,11 @@
           "category": "Science"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 12 Oct 2026\n\nWORLD — The Guardian\n“Man rescued from cave on Sardinia after being trapped by rockslide for 26 hours”\nhttps://www.theguardian.com/world/2026/oct/12/cave-rescue-sardinia-rockslide-gorroppeddu\n\nBUSINESS — BBC News\n“What are your rights on auto-renew subscriptions?”\nhttps://www.bbc.co.uk/news/videos/c63dj8gx1jkno\n\nSCIENCE — NASA\n“APOD: 2026 October 12 – Jupiter and the Moons”\nhttps://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 12 Oct 2026\n\nWORLD — The Guardian\n“Man rescued from cave on Sardinia after being trapped by rockslide for 26 hours”\nhttps://www.theguardian.com/world/2026/oct/12/cave-rescue-sardinia-rockslide-gorroppeddu\n\nBUSINESS — BBC News\n“What are your rights on auto-renew subscriptions?”\nhttps://www.bbc.co.uk/news/videos/c63dj8gx1jkno\n\nSCIENCE — NASA\n“APOD: 2026 October 12 – Jupiter and the Moons”\nhttps://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
