@@ -2237,6 +2237,36 @@
       "text": "WORLD & HUMAN | News briefing | 11 Oct 2026\n\nWORLD — The Guardian\n“Australian politics live: Ryan ‘not bothered’ by possible Frydenberg return; Lambie accuses Labor of ‘financial coercion’ over FoI”\nhttps://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb\n\nBUSINESS — BBC News\n“Roofing scammers con homeowners out of thousands of pounds”\nhttps://www.bbc.co.uk/news/articles/c6x29kydnzv0o\n\nSCIENCE — NASA\n“APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos”\nhttps://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
       "http_status": 400,
       "error_message": "Organization Or Events permissions must be used when using organization as author"
+    },
+    {
+      "id": "3dc908a9a559a20b7429",
+      "created_at": "2026-10-12T18:00:50.733187+00:00",
+      "articles": [
+        {
+          "title": "Man rescued from cave on Sardinia after being trapped by rockslide for 26 hours",
+          "url": "https://www.theguardian.com/world/2026/oct/12/cave-rescue-sardinia-rockslide-gorroppeddu",
+          "published_at": "2026-10-12T17:40:38+00:00",
+          "source": "The Guardian",
+          "category": "World"
+        },
+        {
+          "title": "What are your rights on auto-renew subscriptions?",
+          "url": "https://www.bbc.co.uk/news/videos/c63dj8gx1jkno",
+          "published_at": "2026-10-12T17:08:32+00:00",
+          "source": "BBC News",
+          "category": "Business"
+        },
+        {
+          "title": "APOD: 2026 October 12 – Jupiter and the Moons",
+          "url": "https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/",
+          "published_at": "2026-10-12T04:05:00+00:00",
+          "source": "NASA",
+          "category": "Science"
+        }
+      ],
+      "status": "reserved",
+      "organization_id": "143606150",
+      "text": "WORLD & HUMAN | News briefing | 12 Oct 2026\n\nWORLD — The Guardian\n“Man rescued from cave on Sardinia after being trapped by rockslide for 26 hours”\nhttps://www.theguardian.com/world/2026/oct/12/cave-rescue-sardinia-rockslide-gorroppeddu\n\nBUSINESS — BBC News\n“What are your rights on auto-renew subscriptions?”\nhttps://www.bbc.co.uk/news/videos/c63dj8gx1jkno\n\nSCIENCE — NASA\n“APOD: 2026 October 12 – Jupiter and the Moons”\nhttps://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
     }
   ]
 }
