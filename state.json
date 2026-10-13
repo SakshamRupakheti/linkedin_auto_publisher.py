@@ -2269,6 +2269,36 @@
       "text": "WORLD & HUMAN | News briefing | 12 Oct 2026\n\nWORLD — The Guardian\n“Man rescued from cave on Sardinia after being trapped by rockslide for 26 hours”\nhttps://www.theguardian.com/world/2026/oct/12/cave-rescue-sardinia-rockslide-gorroppeddu\n\nBUSINESS — BBC News\n“What are your rights on auto-renew subscriptions?”\nhttps://www.bbc.co.uk/news/videos/c63dj8gx1jkno\n\nSCIENCE — NASA\n“APOD: 2026 October 12 – Jupiter and the Moons”\nhttps://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
       "http_status": 400,
       "error_message": "Organization Or Events permissions must be used when using organization as author"
+    },
+    {
+      "id": "3af5182f9c1e027252a4",
+      "created_at": "2026-10-13T02:05:51.376763+00:00",
+      "articles": [
+        {
+          "title": "UK growth upgraded but energy prices and rates to bite in 2027",
+          "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo",
+          "published_at": "2026-10-13T02:00:35+00:00",
+          "source": "BBC News",
+          "category": "Business"
+        },
+        {
+          "title": "Australian politics live: businesses increasing prices under cover of surcharge ban, UBS economists warn; fire ants in Sydney’s inner west",
+          "url": "https://www.theguardian.com/australia-news/live/2026/oct/13/labor-anthony-albanese-charity-boost-greens-ukraine-coalition-one-nation-ntwnfb",
+          "published_at": "2026-10-13T01:44:38+00:00",
+          "source": "The Guardian",
+          "category": "World"
+        },
+        {
+          "title": "NASA’s SpaceX CRS-35 Mission to Launch Health Research",
+          "url": "https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/",
+          "published_at": "2026-10-12T17:45:27+00:00",
+          "source": "NASA",
+          "category": "Science"
+        }
+      ],
+      "status": "reserved",
+      "organization_id": "143606150",
+      "text": "WORLD & HUMAN | News briefing | 13 Oct 2026\n\nBUSINESS — BBC News\n“UK growth upgraded but energy prices and rates to bite in 2027”\nhttps://www.bbc.co.uk/news/articles/cmglw0r21zexo\n\nWORLD — The Guardian\n“Australian politics live: businesses increasing prices under cover of surcharge ban, UBS economists warn; fire ants in Sydney’s inner west”\nhttps://www.theguardian.com/australia-news/live/2026/oct/13/labor-anthony-albanese-charity-boost-greens-ukraine-coalition-one-nation-ntwnfb\n\nSCIENCE — NASA\n“NASA’s SpaceX CRS-35 Mission to Launch Health Research”\nhttps://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
     }
   ]
 }
