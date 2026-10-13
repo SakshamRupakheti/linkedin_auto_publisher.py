@@ -2360,9 +2360,11 @@
           "category": "Science"
         }
       ],
-      "status": "reserved",
+      "status": "not_published",
       "organization_id": "143606150",
-      "text": "WORLD & HUMAN | News briefing | 13 Oct 2026\n\nWORLD — BBC News\n“Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines”\nhttps://www.bbc.co.uk/news/articles/cw99zpmnxzmjo\n\nSPORT — The Guardian\n“‘I expect more’: Lisandro Martínez hits out at Manchester United hierarchy”\nhttps://www.theguardian.com/football/2026/oct/13/lisandro-martinez-hits-out-at-united-hierarchy-after-defeat-at-atletico-madrid\n\nSCIENCE — NASA\n“NASA Names Astronaut Christina Koch Acting Deputy Chief Engineer”\nhttps://www.nasa.gov/news-release/nasa-names-astronaut-christina-koch-acting-deputy-chief-engineer/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
+      "text": "WORLD & HUMAN | News briefing | 13 Oct 2026\n\nWORLD — BBC News\n“Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines”\nhttps://www.bbc.co.uk/news/articles/cw99zpmnxzmjo\n\nSPORT — The Guardian\n“‘I expect more’: Lisandro Martínez hits out at Manchester United hierarchy”\nhttps://www.theguardian.com/football/2026/oct/13/lisandro-martinez-hits-out-at-united-hierarchy-after-defeat-at-atletico-madrid\n\nSCIENCE — NASA\n“NASA Names Astronaut Christina Koch Acting Deputy Chief Engineer”\nhttps://www.nasa.gov/news-release/nasa-names-astronaut-christina-koch-acting-deputy-chief-engineer/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
+      "http_status": 400,
+      "error_message": "Organization Or Events permissions must be used when using organization as author"
     }
   ]
 }
