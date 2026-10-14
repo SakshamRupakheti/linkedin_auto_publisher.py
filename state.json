@@ -2365,6 +2365,36 @@
       "text": "WORLD & HUMAN | News briefing | 13 Oct 2026\n\nWORLD — BBC News\n“Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines”\nhttps://www.bbc.co.uk/news/articles/cw99zpmnxzmjo\n\nSPORT — The Guardian\n“‘I expect more’: Lisandro Martínez hits out at Manchester United hierarchy”\nhttps://www.theguardian.com/football/2026/oct/13/lisandro-martinez-hits-out-at-united-hierarchy-after-defeat-at-atletico-madrid\n\nSCIENCE — NASA\n“NASA Names Astronaut Christina Koch Acting Deputy Chief Engineer”\nhttps://www.nasa.gov/news-release/nasa-names-astronaut-christina-koch-acting-deputy-chief-engineer/\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman",
       "http_status": 400,
       "error_message": "Organization Or Events permissions must be used when using organization as author"
+    },
+    {
+      "id": "0d24e796b58aca2d1be5",
+      "created_at": "2026-10-14T13:49:18.081660+00:00",
+      "articles": [
+        {
+          "title": "Driving test waits fall to two-year low - but still average 20 weeks",
+          "url": "https://www.bbc.co.uk/news/articles/c94g1kvz006ko",
+          "published_at": "2026-10-14T13:45:34+00:00",
+          "source": "BBC News",
+          "category": "Business"
+        },
+        {
+          "title": "NASA to Discuss Artemis Acceleration, Status of Upcoming Moon Missions",
+          "url": "https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/",
+          "published_at": "2026-10-14T13:32:25+00:00",
+          "source": "NASA",
+          "category": "Science"
+        },
+        {
+          "title": "Russell Brand was ‘ruthless and calculated’, prosecutors tell jury as rape and sexual assault trial begins – live",
+          "url": "https://www.theguardian.com/uk-news/live/2026/oct/14/russell-brand-trial-latest-news-updates",
+          "published_at": "2026-10-14T13:29:08+00:00",
+          "source": "The Guardian",
+          "category": "World"
+        }
+      ],
+      "status": "reserved",
+      "organization_id": "143606150",
+      "text": "WORLD & HUMAN | News briefing | 14 Oct 2026\n\nBUSINESS — BBC News\n“Driving test waits fall to two-year low - but still average 20 weeks”\nhttps://www.bbc.co.uk/news/articles/c94g1kvz006ko\n\nSCIENCE — NASA\n“NASA to Discuss Artemis Acceleration, Status of Upcoming Moon Missions”\nhttps://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/\n\nWORLD — The Guardian\n“Russell Brand was ‘ruthless and calculated’, prosecutors tell jury as rape and sexual assault trial begins – live”\nhttps://www.theguardian.com/uk-news/live/2026/oct/14/russell-brand-trial-latest-news-updates\n\nHeadlines as reported by the linked publishers. Follow the sources for context and updates.\n\n#WorldNews #WorldAndHuman"
     }
   ]
 }
